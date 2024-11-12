@@ -1,0 +1,1806 @@
+1.1	0	Eugenius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eugenius	ROOT	0
+1.1	1	Carthaginiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Carthaginiensis	amod	2
+1.1	2	Tamalleni	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	Tamalleni	orphan	0
+1.1	3	.	PUNCT	punc		.	punct	0
+1.2	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	nsubj	1
+1.2	1	Aboritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Aboritanus	ROOT	1
+1.2	2	.	PUNCT	punc		.	punct	1
+1.2	3	exilium	NOUN	adjective	Case=Nom|Gender=Neut|Number=Sing	exilium	ROOT	3
+1.2	4	.	PUNCT	punc		.	punct	3
+1.3	0	Paulus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Paulus	ROOT	0
+1.3	1	Sinnarensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sinnarensis	amod	0
+1.3	2	.	PUNCT	punc		.	punct	0
+1.3	3	exilium	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	exilium	ROOT	3
+1.3	4	.	PUNCT	punc		.	punct	3
+1.4	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+1.4	1	Piensis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	Piensis	advcl:pred	2
+1.4	2	Corsica	PROPN	proper_noun	Case=Nom|Gender=Fem|Number=Sing	Corsica	nsubj	0
+1.4	3	.	PUNCT	punc		.	punct	0
+1.4	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exil	ROOT	4
+1.4	5	.	PUNCT	punc		.	punct	4
+1.5	0	Marianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Marianus	ROOT	0
+1.5	1	Hippzaritensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Hippzaritensis	amod	0
+1.5	2	ut	SCONJ	adverb		ut	mark	3
+1.5	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.5	4	.	PUNCT	punc		.	punct	3
+1.6	0	Pascasius	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Pascasius	ROOT	0
+1.6	1	Gunelensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Gunelensis	amod	0
+1.6	2	ut	SCONJ	adverb		ut	mark	3
+1.6	3	sp	NOUN	noun		sps	advcl:cmp	0
+1.6	4	.	PUNCT	punc		.	punct	3
+1.7	0	Sacconius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Sacconius	ROOT	0
+1.7	1	Uzalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uzalensis	amod	0
+1.7	2	ut	SCONJ	adverb		ut	mark	3
+1.7	3	sup	NOUN	preposition		sub	advcl:cmp	0
+1.7	4	.	PUNCT	punc		.	punct	0
+1.8	0	Bonifatius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+1.8	1	Membresitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Membresitanus	conj	0
+1.8	2	.	PUNCT	punc		.	punct	0
+1.8	3	fug	NOUN	noun		fug	ROOT	3
+1.8	4	.	PUNCT	punc		.	punct	3
+1.9	0	Gulosus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	gulosus	ROOT	0
+1.9	1	Beneuentensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Beneuentensis	acl	0
+1.9	2	Corsic	ADV	noun		Corsic	conj	0
+1.9	3	.	PUNCT	punc		.	punct	0
+1.10	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+1.10	1	Utimmirensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	utimmirensis	dep	0
+1.10	2	ut	ADV	adverb		ut	mark	3
+1.10	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.10	4	.	PUNCT	punc		.	punct	3
+1.11	0	Pastinatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	pastino	ROOT	0
+1.11	1	Puppitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Puppitanus	nsubj:pass	0
+1.11	2	ut	SCONJ	adverb		ut	advmod	3
+1.11	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.11	4	.	PUNCT	punc		.	punct	3
+1.12	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+1.12	1	Puppianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Puppianensis	nsubj:pass	0
+1.12	2	.	PUNCT	punc		.	punct	0
+1.13	0	Fortunatianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Fortunatianus	ROOT	0
+1.13	1	Araditanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Araditanus	appos	0
+1.13	2	.	PUNCT	punc		.	punct	0
+1.13	3	Corsic	ADJ	adjective		Corsic	ROOT	3
+1.13	4	.	PUNCT	punc		.	punct	3
+1.14	0	Deumhabet	PROPN	verb		Deumhabet	ROOT	0
+1.14	1	Thelensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Thelensis	amod	0
+1.14	2	.	PUNCT	punc		.	punct	0
+1.14	3	Corsica	PROPN	adjective	Case=Nom|Gender=Fem|Number=Sing	Corsica	ROOT	3
+1.14	4	.	PUNCT	punc		.	punct	3
+1.15	0	Liberatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	libero	ROOT	0
+1.15	1	Mullitanus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Mullitanus	conj	0
+1.15	2	ut	ADV	adverb		ut	advmod	3
+1.15	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.15	4	.	PUNCT	punc		.	punct	3
+1.16	0	Mannucius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	mannucius	ROOT	0
+1.16	1	Duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	Duo	nummod	0
+1.16	2	-	PUNCT	punc		-	punct	3
+1.16	3	Senemsalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Senemsalensis	conj	0
+1.16	4	.	PUNCT	punc		.	punct	0
+1.17	0	Hirundinus	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	Hirundinus	ROOT	0
+1.17	1	Missuensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Missuensis	nmod	0
+1.17	2	.	PUNCT	punc		.	punct	0
+1.17	3	Corsic	ADV	noun		Corsic	ROOT	3
+1.17	4	.	PUNCT	punc		.	punct	3
+1.18	0	Iona	PROPN	proper_noun		Ionas	ROOT	0
+1.18	1	Lapdensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Lapdensis	amod	0
+1.18	2	.	PUNCT	punc		.	punct	0
+1.18	3	ut	ADV	adverb		ut	advmod	4
+1.18	4	sp	NOUN	noun		sp	ROOT	4
+1.18	5	.	PUNCT	punc		.	punct	4
+1.19	0	Peregrinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	peregrinus	ROOT	0
+1.19	1	Assuritanus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Assuritanus	amod	0
+1.19	2	in	ADP	preposition		in	case	3
+1.19	3	exil	ADV	adjective		exilis	nmod	0
+1.19	4	.	PUNCT	punc		.	punct	0
+1.19	5	hic	ADV	adverb		hic	ROOT	5
+1.19	6	.	PUNCT	punc		.	punct	5
+1.20	0	Quintianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	quintianus	ROOT	0
+1.20	1	Uricitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uricitanus	appos	0
+1.20	2	.	PUNCT	punc		.	punct	0
+1.21	0	Cresconius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cresconius	ROOT	0
+1.21	1	Tonnonensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tonnonensis	amod	0
+1.21	2	.	PUNCT	punc		.	punct	0
+1.21	3	prbt	NOUN	noun		prbt	ROOT	3
+1.21	4	.	PUNCT	punc		.	punct	3
+1.22	0	Florentinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Florentinus	ROOT	0
+1.22	1	Uticensis	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Uticensis	flat	0
+1.22	2	.	PUNCT	punc		.	punct	0
+1.22	3	Corsie	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	Corsia	ROOT	3
+1.22	4	.	PUNCT	punc		.	punct	3
+1.23	0	Pascasius	ADV	noun		Pascasius	ROOT	0
+1.23	1	Migirpensis	VERB	verb	Mood=Sub|Number=Sing|Person=2|Tense=Perf|VerbForm=Fin|Voice=Act	Migirpensis	amod	0
+1.23	2	ut	ADV	adverb		ut	mark	3
+1.23	3	sp	NOUN	noun		sps	advcl:cmp	0
+1.23	4	.	PUNCT	punc		.	punct	3
+1.24	0	Carissimus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Carus	amod	1
+1.24	1	Gisipensis	PROPN	noun	Case=Abl|Gender=Masc|Number=Plur	Gisipensis	ROOT	1
+1.24	2	.	PUNCT	punc		.	punct	1
+1.24	3	in	ADP	preposition		in	case	4
+1.24	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exil	ROOT	4
+1.24	5	.	PUNCT	punc		.	punct	4
+1.25	0	Gaius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Gaius	ROOT	0
+1.25	1	Uzitensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uzitensis	flat:name	0
+1.25	2	prbt	NOUN	noun		prbt	appos	0
+1.25	3	.	PUNCT	punc		.	punct	0
+1.26	0	Exitiosus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	exitiosus	ROOT	0
+1.26	1	Uerensis	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Uerensis	advcl	0
+1.26	2	.	PUNCT	punc		.	punct	0
+1.26	3	Corsic	ADV	noun		Corsic	ROOT	3
+1.26	4	.	PUNCT	punc		.	punct	3
+1.27	0	Crescens	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Crescens	ROOT	0
+1.27	1	Cicisitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cicisitanus	amod	0
+1.27	2	.	PUNCT	punc		.	punct	0
+1.27	3	in	ADP	preposition		in	case	4
+1.27	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exil	ROOT	4
+1.27	5	.	PUNCT	punc		.	punct	4
+1.28	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+1.28	1	Uolitanus	VERB	proper_noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	uolitanus	acl	0
+1.28	2	.	PUNCT	punc		.	punct	0
+1.28	3	Corsica	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Corsica	ROOT	3
+1.28	4	.	PUNCT	punc		.	punct	3
+1.29	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+1.29	1	Carpitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Carpitanus	flat	0
+1.29	2	ut	SCONJ	adverb		ut	dep	0
+1.29	3	sup	ADJ	noun		sub	obj	2
+1.29	4	.	PUNCT	punc		.	punct	3
+1.30	0	Carcadius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Carcadius	ROOT	0
+1.30	1	Maxulitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Maxulitanus	amod	0
+1.30	2	ut	SCONJ	adverb		ut	mark	3
+1.30	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.30	4	.	PUNCT	punc		.	punct	3
+1.31	0	Cyprianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cyprianus	ROOT	0
+1.31	1	Bonustensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Bonustensis	amod	0
+1.31	2	.	PUNCT	punc		.	punct	0
+1.32	0	Dalmatius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Dalmatius	ROOT	0
+1.32	1	Tinisensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tinisensis	amod	0
+1.32	2	.	PUNCT	punc		.	punct	0
+1.32	3	Corsic	ADV	noun		Corsic	ROOT	3
+1.32	4	.	PUNCT	punc		.	punct	3
+1.33	0	Aemilianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Aemilianus	ROOT	0
+1.33	1	Culusitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Culusitanus	appos	0
+1.33	2	.	PUNCT	punc		.	punct	0
+1.33	3	Corsic	ADJ	noun		Corsic	ROOT	3
+1.33	4	.	PUNCT	punc		.	punct	3
+1.34	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+1.34	1	Bullensis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Bullensis	nmod	0
+1.34	2	.	PUNCT	punc		.	punct	0
+1.34	3	prbt	NOUN	noun		prbt	ROOT	3
+1.34	4	.	PUNCT	punc		.	punct	3
+1.35	0	Clementinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Clementinus	ROOT	0
+1.35	1	Neapolitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	neapolitanus	conj	0
+1.35	2	.	PUNCT	punc		.	punct	0
+1.35	3	Corsic	ADJ	adjective		Corsic	ROOT	3
+1.35	4	.	PUNCT	punc		.	punct	3
+1.36	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+1.36	1	Curubitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Curubitanus	flat	0
+1.36	2	ut	SCONJ	adverb		ut	advmod	3
+1.36	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.36	4	.	PUNCT	punc		.	punct	3
+1.37	0	Deuterius	NOUN	adverb	Case=Acc|Gender=Neut|Number=Sing	Deuterius	ROOT	0
+1.37	1	Simminensis	ADJ	verb	Case=Gen|Gender=Neut|Number=Sing	Simminensis	amod	0
+1.37	2	ut	SCONJ	adverb		ut	mark	3
+1.37	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.37	4	.	PUNCT	punc		.	punct	3
+1.38	0	Aurelius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Aurelius	ROOT	0
+1.38	1	Clipiensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Clipiensis	amod	0
+1.38	2	ut	ADV	conjunction		ut	advmod	3
+1.38	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.38	4	.	PUNCT	punc		.	punct	3
+1.39	0	Coronius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Coronius	ROOT	0
+1.39	1	Meglapolitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Meglapolitanus	amod	0
+1.39	2	ut	SCONJ	adverb		ut	mark	3
+1.39	3	sp	NOUN	noun		sps	advcl:cmp	0
+1.39	4	.	PUNCT	punc		.	punct	3
+1.40	0	Benenatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Benenatus	ROOT	0
+1.40	1	Timidensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Timidensis	nmod	0
+1.40	2	ut	SCONJ	adverb		ut	mark	3
+1.40	3	sp	NOUN	noun		sp	advcl:cmp	0
+1.40	4	.	PUNCT	punc		.	punct	3
+1.41	0	Uincentius	ADV	verb		uincentius	advmod	1
+1.41	1	Ziggensis	VERB	adjective	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	Ziggensis	ROOT	1
+1.41	2	.	PUNCT	punc		.	punct	1
+1.41	3	in	ADP	preposition		in	case	4
+1.41	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exilis	ROOT	4
+1.41	5	.	PUNCT	punc		.	punct	4
+1.42	0	Florentius	DET	adjective	Case=Gen|Gender=Neut|Number=Sing	florenter	ROOT	0
+1.42	1	Seminensis	ADJ	verb	Case=Abl|Gender=Neut|Number=Plur	Seminensis	advcl	0
+1.42	2	.	PUNCT	punc		.	punct	0
+1.42	3	Corsica	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Corsica	ROOT	3
+1.42	4	.	PUNCT	punc		.	punct	3
+1.43	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+1.43	1	Tagaratensis	ADJ	noun	Case=Gen|Gender=Masc|Number=Sing	Tagaratensis	amod	0
+1.43	2	prbt	NOUN	noun		prbt	appos	0
+1.43	3	.	PUNCT	punc		.	punct	0
+1.44	0	Uindemius	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Uindemius	ROOT	0
+1.44	1	Altuburitnus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Altuburitnus	amod	0
+1.44	2	.	PUNCT	punc		.	punct	0
+1.44	3	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exil	ROOT	3
+1.44	4	.	PUNCT	punc		.	punct	3
+1.45	0	Cyprianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cyprianus	ROOT	0
+1.45	1	Cellensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cellensis	amod	0
+1.45	2	in	ADP	preposition		in	case	3
+1.45	3	exit		verb		exeo	obl	0
+1.46	0	Augentius	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Augentius	ROOT	0
+1.46	1	Uzipparitznus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uzipparitznus	nsubj	0
+1.46	2	.	PUNCT	punc		.	punct	0
+1.46	3	in	ADP	preposition		in	case	4
+1.46	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exil	ROOT	4
+1.46	5	.	PUNCT	punc		.	punct	4
+1.47	0	Cassosus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cassosus	ROOT	0
+1.47	1	Ausanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ausanensis	nmod	0
+1.47	2	.	PUNCT	punc		.	punct	0
+1.47	3	hic	ADV	pronoun		hic	ROOT	3
+1.47	4	.	PUNCT	punc		.	punct	3
+1.48	0	Maximinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	maximinus	ROOT	0
+1.48	1	Naraggaritanus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Naraggaritanus	flat	0
+1.48	2	.	PUNCT	punc		.	punct	0
+1.48	3	hic	ADV	pronoun		hic	ROOT	3
+1.48	4	.	PUNCT	punc		.	punct	3
+1.49	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+1.49	1	Muzuensis	ADJ	proper_noun	Case=Dat|Gender=Masc|Number=Plur	Muzuensis	flat:name	0
+1.49	2	.	PUNCT	punc		.	punct	0
+1.50	0	Iohannes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Iohannes	ROOT	0
+1.50	1	Bullensium	ADJ	noun	Case=Gen|Gender=Fem|Number=Plur	Bullensium	nmod	2
+1.50	2	Regiorum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	regius	nmod	0
+1.50	3	.	PUNCT	punc		.	punct	0
+1.51	0	Cresciturus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Cresciturus	ROOT	0
+1.51	1	Titulitanus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Titulitanus	conj	0
+1.51	2	.	PUNCT	punc		.	punct	0
+1.52	0	Benenatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Benenatus	ROOT	0
+1.52	1	Tuburbitensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tuburbitensis	amod	0
+1.52	2	.	PUNCT	punc		.	punct	0
+1.53	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+1.53	1	Teudalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Teudalensis	nmod	0
+1.53	2	.	PUNCT	punc		.	punct	0
+1.54	0	Pascasius	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Pascasius	ROOT	0
+1.54	1	Tulanensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Tulanensis	amod	0
+1.54	2	.	PUNCT	punc		.	punct	0
+1.55	0	Sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	2
+1.55	1	numero	ADV	noun		numerus	advmod	2
+1.55	2	Lim	NOUN	noun		Limis	ROOT	2
+1.55	3	.	PUNCT	punc		.	punct	2
+2.1	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.1	1	Berceritanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Berceritanus	appos	0
+2.1	2	.	PUNCT	punc		.	punct	0
+2.2	0	Augentius	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Augentius	ROOT	0
+2.2	1	Gazaufalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Gazaufalensis	nmod	0
+2.2	2	.	PUNCT	punc		.	punct	0
+2.2	3	prbt	NOUN	noun		prbt	ROOT	3
+2.2	4	.	PUNCT	punc		.	punct	3
+2.3	0	Quoduultdeus	ADV	adverb		Quoduultdeus	ROOT	0
+2.3	1	Calamensis	PROPN	noun	Case=Gen|Gender=Masc|Number=Sing	Calamensis	nmod	0
+2.3	2	.	PUNCT	punc		.	punct	0
+2.4	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+2.4	1	Castellanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Castellanus	conj	0
+2.4	2	.	PUNCT	punc		.	punct	0
+2.5	0	Leontius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Leontius	ROOT	0
+2.5	1	Burcensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Burcensis	amod	0
+2.5	2	.	PUNCT	punc		.	punct	0
+2.6	0	Firmianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Firmianus	ROOT	0
+2.6	1	Centurionensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Centurionensis	nmod	0
+2.6	2	.	PUNCT	punc		.	punct	0
+2.6	3	prbt	NOUN	noun		prbt	ROOT	3
+2.6	4	.	PUNCT	punc		.	punct	3
+2.7	0	Rufinianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Rufinianus	ROOT	0
+2.7	1	Uadensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Uadensis	advcl	0
+2.7	2	.	PUNCT	punc		.	punct	0
+2.8	0	Paulus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Paulus	ROOT	0
+2.8	1	Nibensis	ADJ	verb	Case=Gen|Gender=Masc|Number=Sing	Nibensis	nmod	0
+2.8	2	.	PUNCT	punc		.	punct	0
+2.8	3	prbt	NOUN	noun		prbt	ROOT	3
+2.8	4	.	PUNCT	punc		.	punct	3
+2.9	0	Martialis	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Martialis	ROOT	0
+2.9	1	Girensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Girensis	amod	0
+2.9	2	.	PUNCT	punc		.	punct	0
+2.10	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.10	1	Cuiculitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Cuiculitanus	nsubj	0
+2.10	2	.	PUNCT	punc		.	punct	0
+2.11	0	Cresconius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cresconius	ROOT	0
+2.11	1	Amporensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Amporensis	amod	0
+2.11	2	.	PUNCT	punc		.	punct	0
+2.12	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Adeodatus	ROOT	0
+2.12	1	Fesseitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Fesseitanus	amod	0
+2.12	2	.	PUNCT	punc		.	punct	0
+2.12	3	prbt	NOUN	noun		prbt	ROOT	3
+2.12	4	.	PUNCT	punc		.	punct	3
+2.13	0	Uitalianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	uitalianus	ROOT	0
+2.13	1	Bocconiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Bocconiensis	nmod	0
+2.13	2	.	PUNCT	punc		.	punct	0
+2.14	0	Duumuirialis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Duumuirialis	amod	1
+2.14	1	Bamaccorensis	ADJ	noun	Case=Gen|Gender=Fem|Number=Sing	Bamaccorensis	ROOT	1
+2.14	2	.	PUNCT	punc		.	punct	1
+2.14	3	prbt	NOUN	noun		prbt	ROOT	3
+2.14	4	.	PUNCT	punc		.	punct	3
+2.15	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.15	1	Ausuccurensis	ADJ	verb	Case=Gen|Gender=Masc|Number=Sing	Ausuccurensis	dep	0
+2.15	2	.	PUNCT	punc		.	punct	0
+2.16	0	Palladius	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	Palladius	ROOT	0
+2.16	1	Idicrensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Idicrensis	amod	0
+2.16	2	.	PUNCT	punc		.	punct	0
+2.16	3	prbt	NOUN	noun		prbt	ROOT	3
+2.16	4	.	PUNCT	punc		.	punct	3
+2.17	0	Gaudentius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Gaudentius	ROOT	0
+2.17	1	Putiensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Putiensis	dep	0
+2.17	2	.	PUNCT	punc		.	punct	0
+2.18	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.18	1	Suggitanus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Suggitanus	amod	0
+2.18	2	.	PUNCT	punc		.	punct	0
+2.19	0	Benenatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Benenatus	ROOT	0
+2.19	1	Lambiritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Lambiritanus	nsubj	0
+2.19	2	.	PUNCT	punc		.	punct	0
+2.20	0	Timotheus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Timotheus	ROOT	0
+2.20	1	Tagurensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tagurensis	amod	0
+2.20	2	.	PUNCT	punc		.	punct	0
+2.21	0	Melior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Melior	ROOT	0
+2.21	1	Fossalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Fossalensis	nsubj	0
+2.21	2	.	PUNCT	punc		.	punct	0
+2.21	3	Na	ADV	verb		no	ROOT	3
+2.21	4	.	PUNCT	punc		.	punct	3
+2.22	0	Frumentius	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	frumentius	ROOT	0
+2.22	1	Tubursicensis	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	Tubursicensis	amod	0
+2.22	2	.	PUNCT	punc		.	punct	0
+2.23	0	Felix	PROPN	adjective	Case=Gen|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.23	1	Lamsortensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Lamsortensis	acl	0
+2.23	2	.	PUNCT	punc		.	punct	0
+2.24	0	Abundius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	abunde	ROOT	0
+2.24	1	Tididitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Tididitanus	nsubj	0
+2.24	2	.	PUNCT	punc		.	punct	0
+2.24	3	prbt	NOUN	noun		prbtula	ROOT	3
+2.24	4	.	PUNCT	punc		.	punct	3
+2.25	0	Ualentianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	ualentianus	ROOT	0
+2.25	1	Montensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Montensis	nmod	0
+2.25	2	.	PUNCT	punc		.	punct	0
+2.25	3	prbt	NOUN	noun		probt	ROOT	3
+2.25	4	.	PUNCT	punc		.	punct	3
+2.26	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+2.26	1	Noua	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	nouus	dep	0
+2.26	2	-	PUNCT	punc		-	punct	3
+2.26	3	Barbarensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Barbarensis	conj	0
+2.26	4	.	PUNCT	punc		.	punct	0
+2.27	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+2.27	1	Idassensis	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Idassensis	advcl	0
+2.27	2	.	PUNCT	punc		.	punct	0
+2.28	0	Florentius	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	florenter	ROOT	0
+2.28	1	Noua	ADJ	adjective	Case=Acc|Gender=Neut|Number=Plur	nouus	dep	0
+2.28	2	-	PUNCT	punc		-	punct	3
+2.28	3	Germaniensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Germaniensis	conj	0
+2.28	4	.	PUNCT	punc		.	punct	0
+2.29	0	Uillaticus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uillaticus	ROOT	0
+2.29	1	de	ADP	preposition		de	case	2
+2.29	2	Casis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	casa	obl	0
+2.29	3	Medianis	VERB	verb	Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	medianus	amod	2
+2.29	4	.	PUNCT	punc		.	punct	0
+2.30	0	Eusebius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eusebius	ROOT	0
+2.30	1	Susicaziensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Susicaziensis	nmod	0
+2.30	2	.	PUNCT	punc		.	punct	0
+2.31	0	Uictorinus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+2.31	1	de	ADP	preposition		de	case	2
+2.31	2	Noua	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	nouus	orphan	0
+2.31	3	Caesaris	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Caesar	nmod	2
+2.31	4	.	PUNCT	punc		.	punct	0
+2.32	0	Uitalianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	uitalianus	ROOT	0
+2.32	1	Uazaritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Uazaritanus	conj	0
+2.32	2	.	PUNCT	punc		.	punct	0
+2.33	0	Iunior	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Iunus	amod	1
+2.33	1	Tigillabensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tigillabensis	ROOT	1
+2.33	2	.	PUNCT	punc		.	punct	1
+2.34	0	Uigilius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Uigilius	ROOT	0
+2.34	1	Bessanensis	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Bessanensis	nmod	0
+2.34	2	.	PUNCT	punc		.	punct	0
+2.34	3	prbt	NOUN	noun		prbt	ROOT	3
+2.34	4	.	PUNCT	punc		.	punct	3
+2.35	0	Leporius	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	leporius	ROOT	0
+2.35	1	Augurensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Augurensis	amod	0
+2.35	2	.	PUNCT	punc		.	punct	0
+2.36	0	Pascentius	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Pascentius	ROOT	0
+2.36	1	Octauensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Octauensis	nmod	0
+2.36	2	.	PUNCT	punc		.	punct	0
+2.37	0	Petrus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Petrus	ROOT	0
+2.37	1	Madensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Madensis	amod	0
+2.37	2	.	PUNCT	punc		.	punct	0
+2.38	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.38	1	Matharensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Matharensis	flat	0
+2.38	2	prbt	NOUN	noun		prbt	appos	0
+2.38	3	.	PUNCT	punc		.	punct	0
+2.39	0	Florentius	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	florenter	ROOT	0
+2.39	1	Centenariensis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	Centenariensis	amod	0
+2.39	2	.	PUNCT	punc		.	punct	0
+2.40	0	Felix	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.40	1	Gilbensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Gilbensis	nmod	0
+2.40	2	prbt	NOUN	noun		prbt	appos	0
+2.40	3	.	PUNCT	punc		.	punct	0
+2.41	0	Florentianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Florentianus	ROOT	0
+2.41	1	Midilensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Midilensis	amod	0
+2.41	2	.	PUNCT	punc		.	punct	0
+2.42	0	Fluminius	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	fluminius	ROOT	0
+2.42	1	Tabudensis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	Tabudensis	amod	0
+2.42	2	.	PUNCT	punc		.	punct	0
+2.43	0	Optantius	ADV	verb		Optantius	ROOT	0
+2.43	1	Casensium	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	Casensium	nmod	0
+2.43	2	Calanensium	ADJ	adjective	Case=Gen|Gender=Fem|Number=Plur	Calanensis	amod	1
+2.43	3	.	PUNCT	punc		.	punct	0
+2.44	0	Peregrinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	peregrinus	ROOT	0
+2.44	1	Pudentianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Pudentianensis	amod	0
+2.44	2	prbt	NOUN	noun		prbt	appos	0
+2.44	3	.	PUNCT	punc		.	punct	2
+2.45	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.45	1	Noua	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	nouus	dep	0
+2.45	2	-	PUNCT	punc		-	punct	3
+2.45	3	Sparsensis	VERB	verb	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Sparsensis	advcl	0
+2.45	4	prbt	NOUN	noun		prbtis	obj	3
+2.45	5	.	PUNCT	punc		.	punct	0
+2.46	0	Felicianus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	felicianus	ROOT	0
+2.46	1	Metensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Metensis	amod	0
+2.46	2	.	PUNCT	punc		.	punct	0
+2.47	0	Domnicus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Domnicus	ROOT	0
+2.47	1	Caesariensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Caesariensis	amod	0
+2.47	2	prbt	NOUN	noun		prbt	appos	0
+2.47	3	.	PUNCT	punc		.	punct	0
+2.48	0	Candidus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	candidus	ROOT	0
+2.48	1	Noua	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	nouus	amod	4
+2.48	2	-	PUNCT	punc		-	dep	3
+2.48	3	Sinensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sinensis	amod	1
+2.48	4	prbt	NOUN	noun		prbtis	obl	0
+2.48	5	.	PUNCT	punc		.	punct	4
+2.49	0	Quoduultdeus	ADV	adverb		Quoduultdeus	ROOT	0
+2.49	1	Caelianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Caelianensis	amod	0
+2.49	2	.	PUNCT	punc		.	punct	0
+2.49	3	nam	PART	adverb		nam	ROOT	3
+2.49	4	.	PUNCT	punc		.	punct	3
+2.50	0	Ianuarius	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+2.50	1	Iattarensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Iattarensis	advcl	0
+2.50	2	.	PUNCT	punc		.	punct	0
+2.51	0	Uictorinus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+2.51	1	de	ADP	preposition		de	case	2
+2.51	2	Castello	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	Castellum	nmod	0
+2.51	3	Tituliano	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	Titulianus	amod	2
+2.51	4	.	PUNCT	punc		.	punct	0
+2.52	0	Fructuosus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	fructuosus	ROOT	0
+2.52	1	de	ADP	preposition		de	case	2
+2.52	2	Giru	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Girus	obl	0
+2.52	3	Marcelli	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Marcellus	nmod	2
+2.52	4	.	PUNCT	punc		.	punct	0
+2.53	0	Cresconius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Cresconius	ROOT	0
+2.53	1	Tharasensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tharasensis	amod	0
+2.53	2	.	PUNCT	punc		.	punct	0
+2.54	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	ROOT	0
+2.54	1	Sillitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Sillitanus	flat	0
+2.54	2	prbt	NOUN	noun		prbt	nmod	1
+2.54	3	.	PUNCT	punc		.	punct	1
+2.55	0	Uigilius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Uigilius	ROOT	0
+2.55	1	Hizirzadensis	ADJ	proper_noun	Case=Gen|Gender=Fem|Number=Sing	Hizirzadensis	nmod	2
+2.55	2	prbt	NOUN	noun		prbt	appos	0
+2.55	3	.	PUNCT	punc		.	punct	2
+2.56	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.56	1	Municipensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Municipensis	nmod	0
+2.56	2	.	PUNCT	punc		.	punct	0
+2.57	0	Seruus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	seruus	ROOT	0
+2.57	1	Arsicaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Arsicaritanus	amod	0
+2.57	2	.	PUNCT	punc		.	punct	0
+2.58	0	Felix	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.58	1	Casae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Casa	nmod	0
+2.58	2	-	PUNCT	punc		-	amod	1
+2.58	3	Nigrensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Nigrensis	amod	1
+2.58	4	.	PUNCT	punc		.	punct	0
+2.59	0	Donatianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Donatianus	ROOT	0
+2.59	1	Uegeselitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Uegeselitanus	conj	0
+2.59	2	.	PUNCT	punc		.	punct	0
+2.60	0	Pudentius	ADV	verb		pudenter	ROOT	0
+2.60	1	Madaurensis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	Madaurensis	dep	0
+2.60	2	.	PUNCT	punc		.	punct	0
+2.61	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.61	1	Rusticianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Rusticianensis	dep	0
+2.61	2	.	PUNCT	punc		.	punct	0
+2.62	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.62	1	Uilla	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uilla	obl	0
+2.62	2	-	PUNCT	punc		-	punct	3
+2.62	3	Regensis	VERB	verb	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Regensis	acl	1
+2.62	4	.	PUNCT	punc		.	punct	0
+2.63	0	Crescens	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Crescens	ROOT	0
+2.63	1	Buffadensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Buffadensis	amod	0
+2.63	2	prbt	NOUN	noun		prbt	obl	0
+2.63	3	.	PUNCT	punc		.	punct	2
+2.64	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+2.64	1	Sistronianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sistronianensis	dep	0
+2.64	2	prbt	NOUN	noun		prbtula	dep	0
+2.64	3	.	PUNCT	punc		.	punct	0
+2.65	0	Rusticus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	rusticus	ROOT	0
+2.65	1	Tipasensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Tipasensis	flat	0
+2.65	2	.	PUNCT	punc		.	punct	0
+2.66	0	Simplicius	ADV	adverb		simplicius	ROOT	0
+2.66	1	Tibilitanus	ADV	noun		Tibilitanus	conj	0
+2.66	2	.	PUNCT	punc		.	punct	0
+2.67	0	Stephanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Stephanus	ROOT	0
+2.67	1	Sinitensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Sinitensis	amod	0
+2.67	2	.	PUNCT	punc		.	punct	0
+2.68	0	Pascentius	ADV	noun		Pascentius	ROOT	0
+2.68	1	Cathaquensis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	Cathaquensus	advcl:pred	0
+2.68	2	.	PUNCT	punc		.	punct	0
+2.68	3	Corsica	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Corsica	ROOT	3
+2.68	4	.	PUNCT	punc		.	punct	3
+2.69	0	Donatianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Donatianus	ROOT	0
+2.69	1	Teglatensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Teglatensis	amod	0
+2.69	2	.	PUNCT	punc		.	punct	0
+2.70	0	Cresconius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Cresconius	ROOT	0
+2.70	1	Zabensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Zabensis	amod	0
+2.70	2	.	PUNCT	punc		.	punct	0
+2.71	0	Antonianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Antonianus	amod	1
+2.71	1	Mustitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Mustitanus	ROOT	1
+2.71	2	.	PUNCT	punc		.	punct	1
+2.72	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+2.72	1	Tubuniensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tubuniensis	dep	0
+2.72	2	.	PUNCT	punc		.	punct	0
+2.73	0	Anastasius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Anastasius	ROOT	0
+2.73	1	Aquae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Aqua	nmod	0
+2.73	2	-	PUNCT	punc		-	punct	3
+2.73	3	Nouensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Nouensis	amod	0
+2.73	4	.	PUNCT	punc		.	punct	0
+2.74	0	Uictorinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+2.74	1	Babrensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Babrensis	amod	0
+2.74	2	prbt	NOUN	noun		prbtis	nmod	0
+2.74	3	.	PUNCT	punc		.	punct	0
+2.75	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	amod	1
+2.75	1	Tebestinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tebestinus	ROOT	1
+2.75	2	.	PUNCT	punc		.	punct	1
+2.76	0	Domninus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Domninus	ROOT	0
+2.76	1	Moxoritanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Moxoritanus	conj	0
+2.76	2	metallo	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	metallum	conj	0
+2.76	3	.	PUNCT	punc		.	punct	0
+2.77	0	Secundus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Secundus	ROOT	0
+2.77	1	Tamogaziensis	ADJ	adjective	Case=Abl|Gender=Fem|Number=Plur	Tamogaziensis	amod	0
+2.77	2	prbt	NOUN	noun		prbtis	dep	0
+2.77	3	.	PUNCT	punc		.	punct	2
+2.78	0	Uictorinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+2.78	1	Legiensis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Legiensis	nmod	0
+2.78	2	.	PUNCT	punc		.	punct	0
+2.79	0	Quoduultdeus	ADV	adverb		Quoduultdeus	advmod	1
+2.79	1	Respectensis	VERB	verb	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Respectendo	ROOT	1
+2.79	2	.	PUNCT	punc		.	punct	1
+2.80	0	Ianuarius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	amod	1
+2.80	1	Uelefitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Uelefitanus	ROOT	1
+2.80	2	.	PUNCT	punc		.	punct	1
+2.81	0	Benenatus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Benenatus	ROOT	0
+2.81	1	Mazacensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Mazacensis	amod	0
+2.81	2	prbt	NOUN	noun		prbt	appos	0
+2.81	3	.	PUNCT	punc		.	punct	2
+2.82	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.82	1	Iugurensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Iugurensis	dep	0
+2.82	2	prbt	NOUN	noun		prbt	advmod	0
+2.82	3	.	PUNCT	punc		.	punct	0
+2.83	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.83	1	Cirtensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cirtensis	amod	0
+2.83	2	prbt	NOUN	noun		prbt	nmod	0
+2.83	3	.	PUNCT	punc		.	punct	2
+2.84	0	Pardalius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	pardalius	ROOT	0
+2.84	1	Macomadiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Macomadiensis	amod	0
+2.84	2	.	PUNCT	punc		.	punct	0
+2.85	0	Ianuarius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	nsubj	2
+2.85	1	Legensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Legendo	acl	0
+2.85	2	prbt	NOUN	noun		prbtis	ROOT	2
+2.85	3	.	PUNCT	punc		.	punct	2
+2.86	0	Quoduultdeus	ADV	adverb		Quoduultdeus	advmod	3
+2.86	1	a	ADP	preposition		ab	case	2
+2.86	2	Turres	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	turris	obl	3
+2.86	3	Concordi	ADJ	verb	Case=Nom|Gender=Masc|Number=Plur	concors	ROOT	3
+2.86	4	.	PUNCT	punc		.	punct	3
+2.87	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	nmod	2
+2.87	1	Lamfuensis	PROPN	adjective	Case=Gen|Gender=Masc|Number=Sing	Lamfuensis	nmod	2
+2.87	2	prbt	NOUN	noun		prbt	ROOT	2
+2.87	3	.	PUNCT	punc		.	punct	2
+2.88	0	Marcellinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Marcellinus	ROOT	0
+2.88	1	Uagrautensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uagrautensis	amod	0
+2.88	2	.	PUNCT	punc		.	punct	0
+2.89	0	Domnicosus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Domnicosus	ROOT	0
+2.89	1	Tigisitanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Tigisitanus	conj	0
+2.89	2	.	PUNCT	punc		.	punct	0
+2.90	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.90	1	Gilbensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Gilbensis	nmod	0
+2.90	2	.	PUNCT	punc		.	punct	0
+2.91	0	Fortunius	ADV	noun		fortunius	nmod	2
+2.91	1	Regianensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Regianensis	amod	0
+2.91	2	prbt	NOUN	noun		prbt	ROOT	2
+2.91	3	.	PUNCT	punc		.	punct	2
+2.92	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+2.92	1	Silensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Silensis	dep	0
+2.92	2	.	PUNCT	punc		.	punct	0
+2.93	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.93	1	Gaudiabensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Gaudiabensis	nmod	0
+2.93	2	.	PUNCT	punc		.	punct	0
+2.94	0	Ianuarianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	ianuarianus	amod	1
+2.94	1	Masculitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Masculitanus	ROOT	1
+2.94	2	.	PUNCT	punc		.	punct	1
+2.95	0	Ianuarius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+2.95	1	Centuriensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Centuriensis	nmod	0
+2.95	2	.	PUNCT	punc		.	punct	0
+2.96	0	Felix	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.96	1	Suauensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Suauensis	nmod	0
+2.96	2	.	PUNCT	punc		.	punct	0
+2.97	0	Crescentianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Crescentianus	ROOT	0
+2.97	1	Germaniensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Germaniensis	amod	0
+2.97	2	.	PUNCT	punc		.	punct	0
+2.98	0	Annibonius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Annibonius	ROOT	0
+2.98	1	Uadesitanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Uadesitanus	conj	0
+2.98	2	.	PUNCT	punc		.	punct	0
+2.99	0	Ianuarius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+2.99	1	Gaurianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Gaurianensis	nmod	0
+2.99	2	prbt	NOUN	noun		prbtis	appos	0
+2.99	3	.	PUNCT	punc		.	punct	2
+2.100	0	Fortunatianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Fortunatianus	ROOT	0
+2.100	1	Naratcatensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Naratcatensis	nmod	0
+2.100	2	.	PUNCT	punc		.	punct	0
+2.101	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	ROOT	0
+2.101	1	Lamiggigensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Lamiggigensis	amod	0
+2.101	2	.	PUNCT	punc		.	punct	0
+2.102	0	Felix	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+2.102	1	Garbensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Garbensis	flat	0
+2.102	2	prbt	NOUN	noun		prbt	advmod	0
+2.102	3	.	PUNCT	punc		.	punct	0
+2.103	0	Iulius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Iulius	ROOT	0
+2.103	1	Uagarmelitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Uagarmelitanus	appos	0
+2.103	2	.	PUNCT	punc		.	punct	0
+2.104	0	Ponticanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Ponticanus	ROOT	0
+2.104	1	Formensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Formensis	amod	0
+2.104	2	prbt	NOUN	noun		prbt	obl	0
+2.104	3	.	PUNCT	punc		.	punct	2
+2.104	4	_	PUNCT	punc		_	ROOT	4
+2.105	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+2.105	1	de	ADP	preposition		de	case	2
+2.105	2	Turres	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	turris	nmod	0
+2.105	3	Ammeniarum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	Ammenia	nmod	2
+2.105	4	.	PUNCT	punc		.	punct	0
+2.106	0	Seruus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	seruus	ROOT	0
+2.106	1	Belesasensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Belesasensis	amod	0
+2.106	2	.	PUNCT	punc		.	punct	0
+2.107	0	Honoratus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+2.107	1	Fatensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Fatensis	amod	0
+2.107	2	.	PUNCT	punc		.	punct	0
+2.108	0	Mensor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	mensor	ROOT	0
+2.108	1	Formensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Formensis	amod	0
+2.108	2	.	PUNCT	punc		.	punct	0
+2.109	0	Peregrinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	peregrinus	ROOT	0
+2.109	1	Muliensis	ADJ	adjective	Case=Dat|Gender=Fem|Number=Plur	Muliensis	nmod	0
+2.109	2	.	PUNCT	punc		.	punct	0
+2.110	0	Gedalius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	gedalius	ROOT	0
+2.110	1	Ospitensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ospitensis	amod	0
+2.110	2	.	PUNCT	punc		.	punct	0
+2.111	0	Fulgentius	ADV	adjective		Fulgentius	ROOT	0
+2.111	1	Uagadensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Uagadensis	nmod	2
+2.111	2	prbt	NOUN	noun		prbtis	dep	0
+2.111	3	.	PUNCT	punc		.	punct	2
+2.112	0	Secundinus	ADV	noun		secundinus	ROOT	0
+2.112	1	Lamasbensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Lamasbensis	nmod	0
+2.112	2	.	PUNCT	punc		.	punct	0
+2.113	0	Crescentius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Crescentius	ROOT	0
+2.113	1	Tacaratensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tacaratensis	amod	0
+2.113	2	.	PUNCT	punc		.	punct	0
+2.114	0	Benenatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Benenatus	ROOT	0
+2.114	1	Mileuitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Mileuitanus	appos	0
+2.114	2	.	PUNCT	punc		.	punct	0
+2.115	0	Quoduultdeus	ADV	adverb		Quoduultdeus	advmod	1
+2.115	1	Ullitanus	PROPN	verb	Case=Nom|Gender=Masc|Number=Sing	Ullitanus	ROOT	1
+2.115	2	.	PUNCT	punc		.	punct	1
+2.116	0	Proficius	PROPN	verb	Case=Nom|Gender=Masc|Number=Sing	Proficius	ROOT	0
+2.116	1	Seleucianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Seleucianensis	nmod	0
+2.116	2	prbt	NOUN	noun		prbt	obl	0
+2.116	3	.	PUNCT	punc		.	punct	2
+2.117	0	Proficius	PROPN	verb	Case=Nom|Gender=Masc|Number=Sing	Proficius	ROOT	0
+2.117	1	Uadensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Uadensis	advcl	0
+2.117	2	prbt	NOUN	noun		prbt	obl	0
+2.117	3	.	PUNCT	punc		.	punct	2
+2.118	0	Ianuarius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+2.118	1	Tagastensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Tagastensis	nmod	0
+2.118	2	prbt	NOUN	noun		prbtis	dep	0
+2.118	3	.	PUNCT	punc		.	punct	2
+2.119	0	Donatus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Donatus	ROOT	0
+2.119	1	Maximianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximianensis	amod	0
+2.119	2	.	PUNCT	punc		.	punct	0
+2.120	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+2.120	1	Zaradtensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Zaradtensis	nmod	0
+2.120	2	prbt	NOUN	noun		prbtis	dep	0
+2.120	3	.	PUNCT	punc		.	punct	0
+2.121	0	Felicianus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	felicianus	ROOT	0
+2.121	1	de	ADP	preposition		de	case	2
+2.121	2	Giru	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Girus	nmod	0
+2.121	3	Tarasi	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	Tarasi	flat:name	2
+2.121	4	.	PUNCT	punc		.	punct	0
+2.122	0	Cardelus	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	Cardelus	ROOT	0
+2.122	1	Lamiggigensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Lamiggigensis	amod	0
+2.122	2	.	PUNCT	punc		.	punct	0
+2.123	0	Flauianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	flauianus	ROOT	0
+2.123	1	Uico	ADV	adjective		uicus	advcl:pred	2
+2.123	2	-	PUNCT	punc		-	amod	3
+2.123	3	Pacensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Pacensis	amod	0
+2.123	4	.	PUNCT	punc		.	punct	0
+2.124	0	Sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	1
+2.124	1	numero	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	numerus	ROOT	1
+2.124	2	CXXV	NUM	number		CXXV	nummod	1
+2.124	3	.	PUNCT	punc		.	punct	1
+3.1	0	Liberatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	libero	ROOT	0
+3.1	1	Amudarsensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Amudarsensis	nmod	2
+3.1	2	prbt	NOUN	noun		prbt	obl	0
+3.1	3	.	PUNCT	punc		.	punct	2
+3.2	0	Mansuetus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	mansuetus	ROOT	0
+3.2	1	Afufeniensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Afufeniensis	dep	0
+3.2	2	.	PUNCT	punc		.	punct	0
+3.3	0	Pascasius	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Pascasius	ROOT	0
+3.3	1	Septimuniciensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Septimuniciensis	amod	0
+3.3	2	.	PUNCT	punc		.	punct	0
+3.4	0	Hortulanus	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	hortulanus	ROOT	0
+3.4	1	Benefensis	ADJ	adjective	Case=Acc|Gender=Masc|Number=Plur	Benefensis	amod	0
+3.4	2	.	PUNCT	punc		.	punct	0
+3.5	0	Uictorinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+3.5	1	Ancusensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ancusensis	nmod	0
+3.5	2	.	PUNCT	punc		.	punct	0
+3.6	0	Euodius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Euodius	ROOT	0
+3.6	1	Mididitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Mididitanus	appos	0
+3.6	2	.	PUNCT	punc		.	punct	0
+3.7	0	Terentianus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Terentianus	ROOT	0
+3.7	1	Tubulbacensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Tubulbacensis	nmod	0
+3.7	2	.	PUNCT	punc		.	punct	0
+3.8	0	Rogatianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Rogatianus	ROOT	0
+3.8	1	Ualentinianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ualentinianensis	conj	0
+3.8	2	.	PUNCT	punc		.	punct	0
+3.9	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+3.9	1	Masclianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Masclianensis	amod	0
+3.9	2	.	PUNCT	punc		.	punct	0
+3.10	0	Uictorinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+3.10	1	Seuerianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Seuerianensis	nmod	0
+3.10	2	.	PUNCT	punc		.	punct	0
+3.11	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+3.11	1	Narensis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Narensis	nmod	0
+3.11	2	.	PUNCT	punc		.	punct	0
+3.12	0	Leontius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Leontius	ROOT	0
+3.12	1	Decorianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Decorianensis	amod	0
+3.12	2	.	PUNCT	punc		.	punct	0
+3.13	0	Seruusdei	PROPN	noun	Case=Gen|Gender=Masc|Number=Sing	Seruusdeus	ROOT	0
+3.13	1	Tambeitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Tambeitanus	appos	0
+3.13	2	.	PUNCT	punc		.	punct	0
+3.14	0	Laetus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	laetus	ROOT	0
+3.14	1	Neptitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Neptitanus	conj	0
+3.14	2	.	PUNCT	punc		.	punct	0
+3.15	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+3.15	1	Custrensis	PROPN	noun	Case=Gen|Gender=Masc|Number=Sing	Custrensis	nmod	0
+3.15	2	prbt	NOUN	noun		prbt	appos	0
+3.15	3	.	PUNCT	punc		.	punct	2
+3.16	0	Flauianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Flauianus	ROOT	0
+3.16	1	Bulelianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Bulelianensis	amod	0
+3.16	2	.	PUNCT	punc		.	punct	0
+3.17	0	Decimus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	decimus	ROOT	0
+3.17	1	Theuzitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Theuzitanus	nsubj	0
+3.17	2	.	PUNCT	punc		.	punct	0
+3.18	0	Seruandus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	seruandus	ROOT	0
+3.18	1	Putiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Putiensis	dep	0
+3.18	2	.	PUNCT	punc		.	punct	0
+3.19	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+3.19	1	Thagamutensis	PROPN	adjective	Case=Abl|Gender=Neut|Number=Plur	Thagamutensis	nsubj:pass	0
+3.19	2	.	PUNCT	punc		.	punct	0
+3.20	0	Praesidius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	praesidius	ROOT	0
+3.20	1	Sufetulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sufetulensis	amod	0
+3.20	2	in	ADP	preposition		in	case	3
+3.20	3	exil	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	exil	orphan	0
+3.20	4	.	PUNCT	punc		.	punct	0
+3.21	0	Eustratius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eustratius	ROOT	0
+3.21	1	Sufetanus	NOUN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Sufetanus	appos	0
+3.21	2	.	PUNCT	punc		.	punct	0
+3.22	0	Secundinus	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	secundinus	ROOT	0
+3.22	1	Garrianensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Garrianensis	amod	0
+3.22	2	prbt	NOUN	noun		prbtula	obl	0
+3.22	3	.	PUNCT	punc		.	punct	2
+3.22	4	-	PUNCT	punc		-	ROOT	4
+3.23	0	Praefectianus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	praefectianus	ROOT	0
+3.23	1	Abaradirensis	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Abaradirensis	amod	0
+3.23	2	prbt	NOUN	noun		prbtula	nmod	0
+3.23	3	.	PUNCT	punc		.	punct	0
+3.24	0	Sabinicus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Sabinicus	ROOT	0
+3.24	1	Octauiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Octauiensis	amod	0
+3.24	2	.	PUNCT	punc		.	punct	0
+3.25	0	Adelfius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Adelfius	ROOT	0
+3.25	1	Mactaritanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Mactaritanus	amod	0
+3.25	2	.	PUNCT	punc		.	punct	0
+3.26	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+3.26	1	Aquiaben	PROPN	proper_noun		Aquiabe	nsubj:pass	0
+3.26	2	*	PUNCT	punc		*	punct	0
+3.27	0	Antacius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	antacius	ROOT	0
+3.27	1	Medianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Medianensis	amod	0
+3.27	2	.	PUNCT	punc		.	punct	0
+3.28	0	Mensius	ADV	adverb		mensius	ROOT	0
+3.28	1	Turrensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Turrensis	amod	0
+3.28	2	.	PUNCT	punc		.	punct	0
+3.29	0	Filtiosus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Filtiosus	amod	1
+3.29	1	Aggaritanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Aggaritanus	ROOT	1
+3.29	2	.	PUNCT	punc		.	punct	1
+3.30	0	Fastidiosus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	fastidiosus	ROOT	0
+3.30	1	Egnatiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Egnatiensis	nmod	0
+3.30	2	.	PUNCT	punc		.	punct	0
+3.31	0	Germanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Germanus	ROOT	0
+3.31	1	Paradamiensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Paradamiensis	amod	0
+3.31	2	.	PUNCT	punc		.	punct	0
+3.32	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+3.32	1	Ermianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ermianensis	dep	0
+3.32	2	.	PUNCT	punc		.	punct	0
+3.33	0	Pascasius	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	pascasius	obj	1
+3.33	1	Tenitanus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Tenitanus	ROOT	1
+3.33	2	.	PUNCT	punc		.	punct	1
+3.34	0	Domninus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Domninus	ROOT	0
+3.34	1	Tarazensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tarazensis	amod	0
+3.34	2	.	PUNCT	punc		.	punct	0
+3.35	0	Hilarinus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Hilarinus	ROOT	0
+3.35	1	Trofimianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Trofimianensis	amod	0
+3.35	2	.	PUNCT	punc		.	punct	0
+3.36	0	Fortunatianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Fortunatianus	ROOT	0
+3.36	1	Lepti	ADJ	noun	Case=Gen|Gender=Masc|Number=Sing	Leptis	dep	0
+3.36	2	-	PUNCT	punc		-	amod	1
+3.36	3	Minensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Minensis	amod	1
+3.36	4	.	PUNCT	punc		.	punct	0
+3.37	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+3.37	1	Tagariatanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Tagariatanus	amod	0
+3.37	2	.	PUNCT	punc		.	punct	0
+3.38	0	Albinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Albinus	ROOT	0
+3.38	1	Octauensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Octauensis	amod	0
+3.38	2	.	PUNCT	punc		.	punct	0
+3.39	0	Aurelius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Aurelius	ROOT	0
+3.39	1	Feradi	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	Feradus	nmod	0
+3.39	2	-	PUNCT	punc		-	punct	3
+3.39	3	Maiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maiensis	nmod	0
+3.39	4	.	PUNCT	punc		.	punct	0
+3.40	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+3.40	1	Crepedulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Crepedulensis	flat:name	0
+3.40	2	.	PUNCT	punc		.	punct	0
+3.41	0	Cyprianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cyprianus	ROOT	0
+3.41	1	Unuzibirensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	unuzibirensis	amod	0
+3.41	2	.	PUNCT	punc		.	punct	0
+3.42	0	Innocentius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Innocentius	ROOT	0
+3.42	1	Muzucensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Muzucensis	flat:name	0
+3.42	2	.	PUNCT	punc		.	punct	0
+3.43	0	Possidius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Possidius	nsubj	3
+3.43	1	Massimanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Massimanensis	amod	0
+3.43	2	non	PART	particle		non	advmod:neg	3
+3.43	3	occurrit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occurro	ROOT	3
+3.43	4	.	PUNCT	punc		.	punct	3
+3.44	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	nsubj	3
+3.44	1	Uitensis	NOUN	adjective	Case=Gen|Gender=Fem|Number=Sing	Uitensis	nmod	0
+3.44	2	non	PART	particle		non	advmod:neg	3
+3.44	3	occurrit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occurro	ROOT	3
+3.44	4	.	PUNCT	punc		.	punct	3
+3.45	0	Uictorinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	uictorinus	ROOT	0
+3.45	1	Scebatianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Scebatianensis	amod	0
+3.45	2	.	PUNCT	punc		.	punct	0
+3.46	0	Adeodatus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+3.46	1	Pederodianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Pederodianensis	nmod	0
+3.46	2	.	PUNCT	punc		.	punct	0
+3.47	0	Athenius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Athenus	ROOT	0
+3.47	1	Circinitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Circinitanus	amod	0
+3.47	2	.	PUNCT	punc		.	punct	0
+3.48	0	Florentinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Florentinus	amod	1
+3.48	1	Tuziritanus	NOUN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Tuziritanus	ROOT	1
+3.48	2	.	PUNCT	punc		.	punct	1
+3.49	0	Uindicianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uindicianus	ROOT	0
+3.49	1	Marazanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Marazanensis	amod	0
+3.49	2	.	PUNCT	punc		.	punct	0
+3.50	0	Adelfius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Adelfius	ROOT	0
+3.50	1	Mattaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Mattaritanus	appos	0
+3.50	2	.	PUNCT	punc		.	punct	0
+3.51	0	Adeodatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	adeodatus	ROOT	0
+3.51	1	Praecausensis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	Praecausensis	nmod	0
+3.51	2	.	PUNCT	punc		.	punct	0
+3.52	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+3.52	1	Aquis	NOUN	noun	Case=Dat|Gender=Fem|Number=Plur	aqua	obl:arg	0
+3.52	2	-	PUNCT	punc		-	punct	3
+3.52	3	Albensium	ADJ	adjective	Case=Gen|Gender=Neut|Number=Plur	albensis	nmod	0
+3.52	4	.	PUNCT	punc		.	punct	0
+3.53	0	Felix	PROPN	adjective	Case=Voc|Gender=Masc|Number=Sing	Felix	ROOT	0
+3.53	1	Irpinianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Irpinianensis	amod	0
+3.53	2	.	PUNCT	punc		.	punct	0
+3.54	0	Uictorinus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+3.54	1	Usulensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Usulensis	acl	0
+3.54	2	.	PUNCT	punc		.	punct	0
+3.55	0	Habetdeum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	Habetdeum	ROOT	0
+3.55	1	Tamallumensis	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	Tamallumensis	amod	0
+3.55	2	.	PUNCT	punc		.	punct	0
+3.56	0	Concordius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	concorditer	ROOT	0
+3.56	1	Cululitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cululitanus	amod	0
+3.56	2	.	PUNCT	punc		.	punct	0
+3.57	0	Seruus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	seruus	ROOT	0
+3.57	1	Menefessitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Menefessitanus	appos	0
+3.57	2	.	PUNCT	punc		.	punct	0
+3.58	0	Quintianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Quintianus	ROOT	0
+3.58	1	Casulis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	casula	nmod	0
+3.58	2	-	PUNCT	punc		-	punct	3
+3.58	3	Carianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Carianensis	amod	1
+3.58	4	.	PUNCT	punc		.	punct	0
+3.59	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+3.59	1	Acolitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Acolitanus	nsubj:pass	0
+3.59	2	.	PUNCT	punc		.	punct	0
+3.60	0	Uindemialis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	uindemialis	ROOT	0
+3.60	1	Capsensis	ADJ	noun	Case=Gen|Gender=Fem|Number=Sing	Capsensis	amod	0
+3.60	2	.	PUNCT	punc		.	punct	0
+3.61	0	Quoduultdeus	ADV	adverb		Quoduultdeus	advmod	2
+3.61	1	Durensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Durendo	nmod	2
+3.61	2	prbt	NOUN	noun		prbtis	ROOT	2
+3.61	3	.	PUNCT	punc		.	punct	2
+3.62	0	Eliodorus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eliodorus	ROOT	0
+3.62	1	Cufrutensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Cufrutensis	amod	0
+3.62	2	.	PUNCT	punc		.	punct	0
+3.63	0	Marcellinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Marcellinus	ROOT	0
+3.63	1	Tasbaltensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tasbaltensis	amod	0
+3.63	2	.	PUNCT	punc		.	punct	0
+3.64	0	Fortunatianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Fortunatianus	amod	1
+3.64	1	Cilitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Cilitanus	ROOT	1
+3.64	2	.	PUNCT	punc		.	punct	1
+3.65	0	Honoratus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+3.65	1	Tiziensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Tiziensis	nmod	0
+3.65	2	.	PUNCT	punc		.	punct	0
+3.66	0	Bonifatius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+3.66	1	Foratianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Foratianensis	amod	0
+3.66	2	.	PUNCT	punc		.	punct	0
+3.67	0	Seruius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Seruius	amod	1
+3.67	1	Arsuritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Arsuritanus	ROOT	1
+3.67	2	.	PUNCT	punc		.	punct	1
+3.68	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+3.68	1	Forontonianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Forontonianensis	amod	0
+3.68	2	.	PUNCT	punc		.	punct	0
+3.69	0	Succensianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Succensianus	ROOT	0
+3.69	1	Febianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Febianensis	nmod	0
+3.69	2	.	PUNCT	punc		.	punct	0
+3.70	0	Iulianus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	iulianus	ROOT	0
+3.70	1	Uararitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Uararitanus	appos	0
+3.70	2	.	PUNCT	punc		.	punct	0
+3.71	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+3.71	1	Frontonianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Frontonianensis	nmod	0
+3.71	2	.	PUNCT	punc		.	punct	0
+3.72	0	Secundianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	secundianus	ROOT	0
+3.72	1	Mimianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Mimianensis	nmod	0
+3.72	2	.	PUNCT	punc		.	punct	0
+3.72	3	in	ADP	preposition		in	case	4
+3.72	4	exil	VERB	adjective	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	exilis	ROOT	4
+3.72	5	.	PUNCT	punc		.	punct	4
+3.73	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+3.73	1	Boanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Boanensis	dep	0
+3.73	2	.	PUNCT	punc		.	punct	0
+3.74	0	Bonifatius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+3.74	1	Maraguiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maraguiensis	nmod	0
+3.74	2	.	PUNCT	punc		.	punct	0
+3.75	0	Pirasius	ADV	proper_noun		Pirasius	ROOT	0
+3.75	1	Nationensis	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Nationensis	acl	0
+3.75	2	.	PUNCT	punc		.	punct	0
+3.76	0	Faustus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	faustus	ROOT	0
+3.76	1	Praesidiensis	ADJ	verb	Case=Dat|Gender=Masc|Number=Plur	Praesidiensis	amod	0
+3.76	2	.	PUNCT	punc		.	punct	0
+3.77	0	Rusticus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	rusticus	ROOT	0
+3.77	1	Tetcitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tetcitanus	nsubj	0
+3.77	2	.	PUNCT	punc		.	punct	0
+3.78	0	Primianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	primianus	ROOT	0
+3.78	1	Gurgitensis	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	Gurgitensis	nmod	0
+3.78	2	.	PUNCT	punc		.	punct	0
+3.79	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+3.79	1	Filacensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Filacensus	amod	0
+3.79	2	.	PUNCT	punc		.	punct	0
+3.80	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+3.80	1	Macrianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Macrianensis	nmod	0
+3.80	2	prbt	NOUN	noun		prbt	appos	0
+3.80	3	.	PUNCT	punc		.	punct	0
+3.81	0	Frumentius	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	frumentius	ROOT	0
+3.81	1	Teleptensis	ADJ	verb	Case=Gen|Gender=Neut|Number=Plur	Teleptensis	amod	0
+3.81	2	.	PUNCT	punc		.	punct	0
+3.82	0	Honorius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Honorius	ROOT	0
+3.82	1	Oppennensis	ADJ	verb	Case=Gen|Gender=Masc|Number=Sing	Oppennensis	nmod	0
+3.82	2	.	PUNCT	punc		.	punct	0
+3.83	0	Fortunatianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Fortunatianus	ROOT	0
+3.83	1	Tagarbalensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Tagarbalensis	nmod	0
+3.83	2	.	PUNCT	punc		.	punct	0
+3.84	0	Simplicius	ADV	adjective		simplicius	ROOT	0
+3.84	1	Carcabianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Carcabianensis	nmod	0
+3.84	2	.	PUNCT	punc		.	punct	0
+3.85	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+3.85	1	Rufinianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Rufinianensis	dep	0
+3.85	2	.	PUNCT	punc		.	punct	0
+3.86	0	Liberatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	libero	ROOT	0
+3.86	1	Aquarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	aqua	nmod	3
+3.86	2	Regiarum	ADJ	adjective	Case=Gen|Gender=Fem|Number=Plur	regia	amod	1
+3.86	3	prbt	NOUN	noun		prbt	obl	0
+3.86	4	.	PUNCT	punc		.	punct	3
+3.87	0	Uictorianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorianus	ROOT	0
+3.87	1	Quaestorianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Quaestorianensis	nmod	0
+3.87	2	.	PUNCT	punc		.	punct	0
+3.88	0	Rufinianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Rufinianus	ROOT	0
+3.88	1	Uictorianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorianensis	appos	0
+3.88	2	.	PUNCT	punc		.	punct	0
+3.89	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	amod	1
+3.89	1	Gummitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Gummitanus	ROOT	1
+3.89	2	.	PUNCT	punc		.	punct	1
+3.90	0	Peregrinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	peregrinus	ROOT	0
+3.90	1	Materianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Materianensis	amod	0
+3.90	2	.	PUNCT	punc		.	punct	0
+3.91	0	Fortunatus	PROPN	verb	Case=Nom|Gender=Masc|Number=Sing	Fortunatus	ROOT	0
+3.91	1	Mozotcoritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Mozotcoritanus	flat:name	0
+3.91	2	.	PUNCT	punc		.	punct	0
+3.92	0	Pacatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Pacatus	ROOT	0
+3.92	1	Uico	ADV	adjective		uicus	dep	0
+3.92	2	-	PUNCT	punc		-	dep	0
+3.92	3	Ateriensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ateriensis	conj	0
+3.92	4	.	PUNCT	punc		.	punct	0
+3.93	0	Proficius	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Proficius	amod	1
+3.93	1	Sublectinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Sublectinus	ROOT	1
+3.93	2	.	PUNCT	punc		.	punct	1
+3.94	0	Saturus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	sero	ROOT	0
+3.94	1	Irensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Irensis	amod	0
+3.94	2	.	PUNCT	punc		.	punct	0
+3.95	0	Mangentius	ADV	adverb		Mangentius	advmod	1
+3.95	1	Ticualtensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ticualtensis	ROOT	1
+3.95	2	.	PUNCT	punc		.	punct	1
+3.96	0	Uillaticus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	uillaticus	ROOT	0
+3.96	1	Auzegerensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Auzegerensis	amod	0
+3.96	2	.	PUNCT	punc		.	punct	0
+3.97	0	Cresconius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Cresconius	nsubj	2
+3.97	1	Temonianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Temonianensis	amod	0
+3.97	2	prbt	NOUN	noun		prbt	ROOT	2
+3.97	3	.	PUNCT	punc		.	punct	2
+3.98	0	Paulus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Paulus	ROOT	0
+3.98	1	Turre	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	Turris	nmod	0
+3.98	2	-	PUNCT	punc		-	punct	3
+3.98	3	Blandinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Blandinus	conj	0
+3.98	4	prbt	NOUN	noun		prbt	obl	3
+3.98	5	.	PUNCT	punc		.	punct	4
+3.99	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+3.99	1	Segermitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Segermitanus	nsubj:pass	0
+3.99	2	in	ADP	preposition		in	case	3
+3.99	3	exil	ADV	adjective		exil	orphan	1
+3.99	4	.	PUNCT	punc		.	punct	0
+3.100	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+3.100	1	Gauuaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Gauuaritanus	amod	0
+3.100	2	.	PUNCT	punc		.	punct	0
+3.101	0	Donatianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Donatianus	ROOT	0
+3.101	1	Aeliensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Aeliensis	amod	0
+3.101	2	.	PUNCT	punc		.	punct	0
+3.102	0	.Stephanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	.Stephanus	ROOT	0
+3.102	1	Ruspensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Ruspensis	amod	0
+3.102	2	.	PUNCT	punc		.	punct	0
+3.103	0	Uinitor	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	uinitor	ROOT	0
+3.103	1	Talaptulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Talaptulensis	amod	0
+3.103	2	.	PUNCT	punc		.	punct	0
+3.104	0	Hortensius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Hortensius	ROOT	0
+3.104	1	Autentensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Autentensis	acl	0
+3.104	2	.	PUNCT	punc		.	punct	0
+3.105	0	Tertullus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Tertullus	ROOT	0
+3.105	1	Iuncensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Iuncensis	nmod	0
+3.105	2	.	PUNCT	punc		.	punct	0
+3.106	0	Eusebius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eusebius	ROOT	0
+3.106	1	Iubaltianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Iubaltianensis	amod	0
+3.106	2	prbt	NOUN	noun		prbt	dep	0
+3.106	3	.	PUNCT	punc		.	punct	2
+3.107	0	Seruitius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	seruitius	ROOT	0
+3.107	1	Unuricopolitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Unuricopolitanus	conj	0
+3.107	2	.	PUNCT	punc		.	punct	0
+3.108	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	acl	1
+3.108	1	Aggaritanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Aggaritanus	ROOT	1
+3.108	2	.	PUNCT	punc		.	punct	1
+3.109	0	Uigilius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	uigilius	ROOT	0
+3.109	1	Tapsitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tapsitanus	appos	0
+3.109	2	.	PUNCT	punc		.	punct	0
+3.110	0	Madassuma	ADJ	noun	Case=Nom|Gender=Fem|Number=Sing	Madassuma	ROOT	0
+3.110	1	.	PUNCT	punc		.	punct	0
+3.111	0	Dionisiana	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	Dionisianus	ROOT	0
+3.111	1	.	PUNCT	punc		.	punct	0
+3.112	0	Sulianis	ADJ	noun	Case=Abl|Gender=Fem|Number=Plur	Sulianus	ROOT	0
+3.112	1	.	PUNCT	punc		.	punct	0
+3.112	2	Orrea	NOUN	verb	Case=Nom|Gender=Neut|Number=Plur	orrea	ROOT	2
+3.112	3	Caelia	ADJ	noun	Case=Nom|Gender=Neut|Number=Plur	Caelium	amod	2
+3.112	4	.	PUNCT	punc		.	punct	2
+3.113	0	Cunculiana	ADJ	adjective	Case=Acc|Gender=Neut|Number=Plur	Cunculianus	ROOT	0
+3.113	1	.	PUNCT	punc		.	punct	0
+3.114	0	Ticibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	Tix	ROOT	0
+3.114	1	.	PUNCT	punc		.	punct	0
+3.114	2	Sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	3
+3.114	3	numero	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	numerus	ROOT	3
+3.114	4	v.	NUM	number		v.	punct	3
+4.1	0	1	NUM	number		1	nummod	1
+4.1	1	Glorinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Glorinus	ROOT	1
+4.1	2	Iuncensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Iuncendo	amod	1
+4.1	3	.	PUNCT	punc		.	punct	1
+4.2	0	Tiberianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Tiberianus	ROOT	0
+4.2	1	Quizensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Quizensis	nmod	0
+4.2	2	.	PUNCT	punc		.	punct	0
+4.3	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.3	1	Sufaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Sufaritanus	amod	0
+4.3	2	.	PUNCT	punc		.	punct	0
+4.4	0	Syrus	PROPN	noun	Case=Nom|Gender=Fem|Number=Sing	Syrus	ROOT	0
+4.4	1	Corniculanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Corniculanensis	amod	0
+4.4	2	.	PUNCT	punc		.	punct	0
+4.5	0	Lucius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lucius	ROOT	0
+4.5	1	Itensis	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Itensis	flat:name	0
+4.5	2	.	PUNCT	punc		.	punct	0
+4.6	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+4.6	1	Timicitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Timicitanus	amod	0
+4.6	2	.	PUNCT	punc		.	punct	0
+4.7	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.7	1	Nouicensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Nouicensis	dep	0
+4.7	2	prbt	NOUN	noun		prbt	obl	0
+4.7	3	.	PUNCT	punc		.	punct	0
+4.8	0	Patera	PROPN	noun		patera	ROOT	0
+4.8	1	Milianensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Milianensis	amod	0
+4.8	2	.	PUNCT	punc		.	punct	0
+4.9	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.9	1	Giru	PROPN	noun	Case=Abl|Gender=Masc|Number=Sing	Girus	dep	0
+4.9	2	-	PUNCT	punc		-	flat	1
+4.9	3	Montensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Montensis	nmod	1
+4.9	4	.	PUNCT	punc		.	punct	0
+4.10	0	Auus	NOUN	noun		auus	ROOT	0
+4.10	1	Altabensis	ADJ	adjective	Case=Acc|Gender=Fem|Number=Plur	Altabensis	amod	0
+4.10	2	.	PUNCT	punc		.	punct	0
+4.11	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.11	1	Panatoriensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Panatoriensis	dep	0
+4.11	2	.	PUNCT	punc		.	punct	0
+4.12	0	Martialis	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Martialis	ROOT	0
+4.12	1	Columnatensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Columnatensis	amod	0
+4.12	2	.	PUNCT	punc		.	punct	0
+4.13	0	Subdatius	ADV	adjective		subdatius	ROOT	0
+4.13	1	Sucardensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sucardensis	amod	0
+4.13	2	.	PUNCT	punc		.	punct	0
+4.14	0	Subitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Subitanus	ROOT	0
+4.14	1	Idensis	PROPN	adjective	Case=Abl|Gender=Fem|Number=Plur	Idensis	nmod	2
+4.14	2	prbt	NOUN	noun		prbt	nmod	0
+4.14	3	.	PUNCT	punc		.	punct	2
+4.15	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.15	1	Tifiltensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tifiltensis	dep	0
+4.15	2	.	PUNCT	punc		.	punct	0
+4.16	0	Felicianus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Felicianus	ROOT	0
+4.16	1	Idensis	ADV	adverb		Idensis	nmod	0
+4.16	2	.	PUNCT	punc		.	punct	0
+4.17	0	Onesimus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Onesimus	ROOT	0
+4.17	1	Fidolomensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Fidolomensa	amod	0
+4.17	2	.	PUNCT	punc		.	punct	0
+4.18	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.18	1	Taborentensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Taborentensis	nmod	0
+4.18	2	.	PUNCT	punc		.	punct	0
+4.19	0	Uerecundus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	uerecundus	ROOT	0
+4.19	1	Nouensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Nouensis	amod	0
+4.19	2	.	PUNCT	punc		.	punct	0
+4.20	0	Stephanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Stephanus	ROOT	0
+4.20	1	Zucabaritanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Zucabaritanus	amod	0
+4.20	2	.	PUNCT	punc		.	punct	0
+4.21	0	Apocorius	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	Apocorius	ROOT	0
+4.21	1	Caesariensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Caesariensis	amod	0
+4.21	2	.	PUNCT	punc		.	punct	0
+4.22	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+4.22	1	Rusubiritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Rusubiritanus	amod	0
+4.22	2	.	PUNCT	punc		.	punct	0
+4.23	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.23	1	Subbaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Subbaritanus	conj	0
+4.23	2	.	PUNCT	punc		.	punct	0
+4.24	0	Ianuarius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+4.24	1	Aquensis	PROPN	noun	Case=Abl|Gender=Fem|Number=Plur	Aquensis	nmod	0
+4.24	2	.	PUNCT	punc		.	punct	0
+4.25	0	Martianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	martianus	amod	1
+4.25	1	Murus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	murus	ROOT	1
+4.25	2	-	PUNCT	punc		-	punct	3
+4.25	3	Tagensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Tagensis	amod	1
+4.25	4	prbt	NOUN	noun		prbtis	appos	1
+4.25	5	.	PUNCT	punc		.	punct	4
+4.26	0	Claudius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Claudius	ROOT	0
+4.26	1	Uagalitanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Uagalitanus	amod	0
+4.26	2	.	PUNCT	punc		.	punct	0
+4.27	0	Passitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	passitanus	ROOT	0
+4.27	1	Tigisitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tigisitanus	conj	0
+4.27	2	.	PUNCT	punc		.	punct	0
+4.28	0	Salo	PROPN	noun		salum	ROOT	0
+4.28	1	Fallabensis	ADJ	verb	Case=Gen|Gender=Masc|Number=Sing	Fallabensis	amod	0
+4.28	2	.	PUNCT	punc		.	punct	0
+4.29	0	Donatianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Donatianus	ROOT	0
+4.29	1	Usinadensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Usinadensis	amod	0
+4.29	2	.	PUNCT	punc		.	punct	0
+4.30	0	Paulus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Paulus	ROOT	0
+4.30	1	Flumen	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	flumen	appos	0
+4.30	2	-	PUNCT	punc		-	punct	3
+4.30	3	Zeritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Zeritanus	appos	0
+4.30	4	.	PUNCT	punc		.	punct	0
+4.31	0	Nicetius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Nicetius	ROOT	0
+4.31	1	Castello	PROPN	noun	Case=Abl|Gender=Neut|Number=Sing	Castellum	nmod	0
+4.31	2	-	PUNCT	punc		-	punct	3
+4.31	3	Minoritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Minoritanus	conj	0
+4.31	4	.	PUNCT	punc		.	punct	0
+4.32	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+4.32	1	Florianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Florianensis	dep	0
+4.32	2	.	PUNCT	punc		.	punct	0
+4.33	0	Mensius	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	mensius	ROOT	0
+4.33	1	Ala	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	ala	dep	0
+4.33	2	-	PUNCT	punc		-	punct	1
+4.33	3	Miliarensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Miliarensis	amod	0
+4.33	4	.	PUNCT	punc		.	punct	0
+4.34	0	Maxentius	ADV	adverb		Maxentius	ROOT	0
+4.34	1	Tigamibenensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Tigamibenensis	dep	0
+4.34	2	prbt	NOUN	noun		prbt	obl	0
+4.34	3	.	PUNCT	punc		.	punct	0
+4.35	0	Urbanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	urbanus	amod	2
+4.35	1	Amaurensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Amaurensis	amod	0
+4.35	2	prbt	NOUN	noun		prbt	ROOT	2
+4.35	3	.	PUNCT	punc		.	punct	2
+4.36	0	Crescens	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Crescens	ROOT	0
+4.36	1	Sestensis	ADJ	noun	Case=Gen|Gender=Masc|Number=Sing	Sestensis	nmod	2
+4.36	2	prbt	NOUN	noun		prbt	obl	0
+4.36	3	.	PUNCT	punc		.	punct	2
+4.37	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.37	1	Ternamusensis	ADJ	adjective	Case=Abl|Gender=Fem|Number=Plur	Ternamusensis	dep	0
+4.37	2	.	PUNCT	punc		.	punct	0
+4.38	0	Fortis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	fortis	amod	1
+4.38	1	Caput	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	caput	ROOT	1
+4.38	2	-	PUNCT	punc		-	punct	3
+4.38	3	Cillensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Cillensis	conj	0
+4.38	4	.	PUNCT	punc		.	punct	1
+4.39	0	Ianuarius	ADJ	adverb	Case=Nom|Gender=Masc|Number=Sing	Ianuarius	ROOT	0
+4.39	1	Nasbincensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Nasbincensis	nmod	0
+4.39	2	prbt	NOUN	noun		prbtis	appos	0
+4.39	3	.	PUNCT	punc		.	punct	2
+4.40	0	Palladius	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	Palladius	ROOT	0
+4.40	1	Bacanariensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Bacanariensis	amod	0
+4.40	2	.	PUNCT	punc		.	punct	0
+4.41	0	Ualens	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Ualens	ROOT	0
+4.41	1	Uillae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Uilla	nmod	3
+4.41	2	-	PUNCT	punc		-	punct	3
+4.41	3	Nouensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Nouensis	nmod	0
+4.41	4	.	PUNCT	punc		.	punct	0
+4.42	0	Passinatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Passinatus	ROOT	0
+4.42	1	Masuccabensis	PROPN	adjective	Case=Abl|Gender=Fem|Number=Sing	Masuccabensis	flat	0
+4.42	2	prbt	NOUN	noun		prbtula	dep	0
+4.42	3	.	PUNCT	punc		.	punct	2
+4.43	0	Longinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	longinus	ROOT	0
+4.43	1	Pamariensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Pamariensis	amod	0
+4.43	2	.	PUNCT	punc		.	punct	0
+4.44	0	Honorius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Honorius	ROOT	0
+4.44	1	Benepotensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Benepotensis	nmod	0
+4.44	2	.	PUNCT	punc		.	punct	0
+4.45	0	Burco	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	Burcus	ROOT	0
+4.45	1	Uardimissensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uardimissensis	amod	0
+4.45	2	prbt	NOUN	noun		prbt	appos	0
+4.45	3	.	PUNCT	punc		.	punct	0
+4.46	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+4.46	1	Ambiensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Ambiensis	dep	0
+4.46	2	.	PUNCT	punc		.	punct	0
+4.47	0	Emilius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Emilius	ROOT	0
+4.47	1	Mediensis	NOUN	adjective	Case=Abl|Gender=Fem|Number=Plur	Mediensis	amod	0
+4.47	2	.	PUNCT	punc		.	punct	0
+4.48	0	Arator	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arator	ROOT	0
+4.48	1	Catulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Catulensis	amod	0
+4.48	2	.	PUNCT	punc		.	punct	0
+4.49	0	Caecilius	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Caecilius	ROOT	0
+4.49	1	Minnensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Minnensis	amod	0
+4.49	2	.	PUNCT	punc		.	punct	0
+4.50	0	Lucidus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	lucidus	amod	1
+4.50	1	Cartennitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cartennitanus	ROOT	1
+4.50	2	.	PUNCT	punc		.	punct	1
+4.51	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.51	1	Regiensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Regiensis	nmod	0
+4.51	2	.	PUNCT	punc		.	punct	0
+4.52	0	Rogatianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Rogatianus	nsubj	2
+4.52	1	Uannidensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uannidensis	amod	0
+4.52	2	prbt	NOUN	noun		prbt	ROOT	2
+4.52	3	.	PUNCT	punc		.	punct	2
+4.53	0	Primus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	primus	ROOT	0
+4.53	1	Caprensis	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Caprensis	advcl	0
+4.53	2	.	PUNCT	punc		.	punct	0
+4.54	0	Metcun	PROPN	noun		Metcun	ROOT	0
+4.54	1	Rusuccuritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Rusuccuritanus	amod	0
+4.54	2	.	PUNCT	punc		.	punct	0
+4.55	0	Rufus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Rufus	ROOT	0
+4.55	1	Sfasferiensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Sfasferiensis	amod	0
+4.55	2	.	PUNCT	punc		.	punct	0
+4.56	0	Eusebius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Eusebius	ROOT	0
+4.56	1	Obbitanus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	Obbitanus	appos	0
+4.56	2	.	PUNCT	punc		.	punct	0
+4.57	0	Securus	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	securus	ROOT	0
+4.57	1	Timidanensis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	Timidanensis	amod	0
+4.57	2	.	PUNCT	punc		.	punct	0
+4.58	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.58	1	Frontensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Frontensis	nmod	0
+4.58	2	.	PUNCT	punc		.	punct	0
+4.59	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.59	1	Icositanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Icositanus	amod	0
+4.59	2	.	PUNCT	punc		.	punct	0
+4.60	0	Quoduultdeus	DET	adverb	Case=Nom|Gender=Neut|Number=Sing	Quoduultdeus	ROOT	0
+4.60	1	Tablensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Tablensis	nmod	2
+4.60	2	prbt	NOUN	noun		prbtis	nmod	0
+4.60	3	.	PUNCT	punc		.	punct	2
+4.61	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+4.61	1	Lapidiensis	ADJ	adjective	Case=Abl|Gender=Fem|Number=Plur	Lapidiensis	nmod	2
+4.61	2	prbt	NOUN	noun		prbt	obl	0
+4.61	3	.	PUNCT	punc		.	punct	0
+4.62	0	Donatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+4.62	1	Uoncariensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uoncariensis	dep	0
+4.62	2	.	PUNCT	punc		.	punct	0
+4.63	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+4.63	1	Rusguniensis	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Rusguniensis	amod	0
+4.63	2	.	PUNCT	punc		.	punct	0
+4.64	0	Uenantius	ADV	verb		uenantius	ROOT	0
+4.64	1	Oppido	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	oppidum	obl	0
+4.64	2	-	PUNCT	punc		-	punct	3
+4.64	3	Nouensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Nouensis	conj	0
+4.64	4	prbt	NOUN	noun		prbtula	obl	3
+4.64	5	.	PUNCT	punc		.	punct	0
+4.65	0	Mattasius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Mattasius	ROOT	0
+4.65	1	Castelli	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	castellum	nmod	0
+4.65	2	-	PUNCT	punc		-	punct	3
+4.65	3	Abaritanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Abaritanus	conj	0
+4.65	4	.	PUNCT	punc		.	punct	0
+4.66	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+4.66	1	Aquis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	aqua	obl:arg	0
+4.66	2	-	PUNCT	punc		-	punct	3
+4.66	3	Sirensis	ADJ	noun	Case=Abl|Gender=Fem|Number=Plur	Sirensis	dep	0
+4.66	4	.	PUNCT	punc		.	punct	0
+4.67	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.67	1	Caltadriensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Caltadriensis	amod	0
+4.67	2	prbt	NOUN	noun		prbt	nmod	0
+4.67	3	.	PUNCT	punc		.	punct	2
+4.68	0	Crescens	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Crescens	ROOT	0
+4.68	1	Tigauitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tigauitanus	amod	0
+4.68	2	.	PUNCT	punc		.	punct	0
+4.69	0	Idonius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Idonius	amod	1
+4.69	1	Busaditanus	NOUN	verb	Case=Nom|Gender=Masc|Number=Sing	Busaditanus	ROOT	1
+4.69	2	.	PUNCT	punc		.	punct	1
+4.70	0	Gellianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Gellianus	ROOT	0
+4.70	1	Reperitanus	NOUN	verb	Case=Nom|Gender=Masc|Number=Sing	Reperitanus	appos	0
+4.70	2	.	PUNCT	punc		.	punct	0
+4.71	0	Ingenuus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	ingenuus	ROOT	0
+4.71	1	Ubadensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Ubadensis	amod	0
+4.71	2	.	PUNCT	punc		.	punct	0
+4.72	0	Petrus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Petrus	ROOT	0
+4.72	1	Oboritanus	NOUN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Oboritanus	appos	0
+4.72	2	.	PUNCT	punc		.	punct	0
+4.73	0	Faustus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	faustus	ROOT	0
+4.73	1	Castra	NOUN	noun	Case=Acc|Gender=Neut|Number=Plur	Castra	dep	0
+4.73	2	-	PUNCT	punc		-	punct	3
+4.73	3	Seuerianensis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	Seuerianensis	amod	1
+4.73	4	.	PUNCT	punc		.	punct	0
+4.74	0	Uitalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	uitalis	amod	1
+4.74	1	Castra	NOUN	noun		Castra	ROOT	1
+4.74	2	-	PUNCT	punc		-	punct	3
+4.74	3	Nouensis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	Nouensis	amod	1
+4.74	4	.	PUNCT	punc		.	punct	1
+4.75	0	Petrus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Petrus	ROOT	0
+4.75	1	Castellanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Castellanus	appos	0
+4.75	2	prbt	NOUN	noun		prbt	appos	0
+4.75	3	.	PUNCT	punc		.	punct	2
+4.76	0	Quintasius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Quintasis	ROOT	0
+4.76	1	Mutecitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Mutecitanus	flat	0
+4.76	2	.	PUNCT	punc		.	punct	0
+4.77	0	Paulinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Paulinus	ROOT	0
+4.77	1	Rubicariensis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	Rubicariensis	amod	0
+4.77	2	.	PUNCT	punc		.	punct	0
+4.78	0	Pascasius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Pascasius	ROOT	0
+4.78	1	Mammillensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Mammillensis	amod	0
+4.78	2	.	PUNCT	punc		.	punct	0
+4.79	0	Tacanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Tacanus	ROOT	0
+4.79	1	Albulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Albulensis	amod	0
+4.79	2	.	PUNCT	punc		.	punct	0
+4.80	0	Emptacius	ADV	adverb		Emptacius	ROOT	0
+4.80	1	Siccesitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Siccesitanus	conj	0
+4.80	2	.	PUNCT	punc		.	punct	0
+4.81	0	Talasius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Talasius	ROOT	0
+4.81	1	Gratianopolitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Gratianopolitanus	appos	0
+4.81	2	.	PUNCT	punc		.	punct	0
+4.82	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.82	1	Manaccenseritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Manaccenseritanus	amod	0
+4.82	2	prbt	NOUN	noun		prbt	nmod	0
+4.82	3	.	PUNCT	punc		.	punct	0
+4.83	0	Pannonius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Pannonius	ROOT	0
+4.83	1	Bitensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Bitensis	amod	0
+4.83	2	.	PUNCT	punc		.	punct	0
+4.84	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+4.84	1	Flenucletensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Flenucletensis	flat:name	0
+4.84	2	prbt	NOUN	noun		prbt	appos	0
+4.84	3	.	PUNCT	punc		.	punct	2
+4.85	0	Campanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Campanus	ROOT	0
+4.85	1	Bidensis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Bidensis	nmod	0
+4.85	2	.	PUNCT	punc		.	punct	0
+4.86	0	Ualentinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Ualentinus	ROOT	0
+4.86	1	Castelli	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	castellum	nmod	0
+4.86	2	Mediani	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	Medianus	amod	1
+4.86	3	.	PUNCT	punc		.	punct	0
+4.87	0	Romanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Romanus	amod	1
+4.87	1	Sufaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Sufaritanus	ROOT	1
+4.87	2	.	PUNCT	punc		.	punct	1
+4.88	0	Secundus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Secundus	ROOT	0
+4.88	1	Maurianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maurianensis	advcl	0
+4.88	2	.	PUNCT	punc		.	punct	0
+4.89	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.89	1	Uulturiensis	ADJ	adjective	Case=Dat|Gender=Masc|Number=Plur	Uulturiensis	dep	0
+4.89	2	.	PUNCT	punc		.	punct	0
+4.90	0	Lucius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lucius	ROOT	0
+4.90	1	Maturbensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maturbensis	flat:name	0
+4.90	2	prbt	NOUN	noun		prbt	appos	0
+4.90	3	.	PUNCT	punc		.	punct	2
+4.91	0	Caecilius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Caecilius	ROOT	0
+4.91	1	Balianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Balianensis	amod	0
+4.91	2	.	PUNCT	punc		.	punct	0
+4.92	0	Rogatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Rogo	ROOT	0
+4.92	1	Sereddelitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Sereddelitanus	flat	0
+4.92	2	.	PUNCT	punc		.	punct	0
+4.93	0	Mingin	PROPN	proper_noun		Mingin	ROOT	0
+4.93	1	Nouensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Nouensis	amod	0
+4.93	2	prbt	NOUN	noun		prbt	obl	0
+4.93	3	.	PUNCT	punc		.	punct	2
+4.94	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.94	1	Castelli	ADJ	noun	Case=Gen|Gender=Neut|Number=Sing	castellum	dep	0
+4.94	2	-	PUNCT	punc		-	punct	3
+4.94	3	Tatroportensis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	Tatroportensis	conj	1
+4.94	4	.	PUNCT	punc		.	punct	0
+4.95	0	Filo	ADV	noun		filum	obl	1
+4.95	1	Arsinnaritanus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Arsinnaritani	ROOT	1
+4.95	2	.	PUNCT	punc		.	punct	1
+4.96	0	Bassinus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	Bassinus	ROOT	0
+4.96	1	Elefantariensis	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	Elefantariensis	amod	0
+4.96	2	prbt	NOUN	noun		prbt	nmod	0
+4.96	3	.	PUNCT	punc		.	punct	2
+4.97	0	Patera	NOUN	noun	Case=Voc|Gender=Fem|Number=Sing	patera	ROOT	0
+4.97	1	Catabitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Catabitanus	nsubj	0
+4.97	2	.	PUNCT	punc		.	punct	0
+4.98	0	Uincemalos	ADJ	noun	Case=Acc|Gender=Masc|Number=Plur	uincemalos	obj	1
+4.98	1	Baparensis	VERB	verb	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	Baparensis	ROOT	1
+4.98	2	.	PUNCT	punc		.	punct	1
+4.99	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.99	1	Tipasitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Tipasitanus	nsubj:pass	0
+4.99	2	prbt	NOUN	noun		prbtula	nmod	1
+4.99	3	.	PUNCT	punc		.	punct	2
+4.100	0	Romanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Romanus	amod	1
+4.100	1	Tamadensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Tamadensis	advcl	2
+4.100	2	prbt	NOUN	noun		prbt	ROOT	2
+4.100	3	.	PUNCT	punc		.	punct	2
+4.101	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.101	1	Uoncarianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Uoncarianensis	nmod	0
+4.101	2	.	PUNCT	punc		.	punct	0
+4.102	0	Maddanius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Maddanius	ROOT	0
+4.102	1	Murconensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Murconensis	amod	0
+4.102	2	.	PUNCT	punc		.	punct	0
+4.103	0	Crispinus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Crispinus	ROOT	0
+4.103	1	Tabadcarensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tabadcarensis	amod	0
+4.103	2	.	PUNCT	punc		.	punct	0
+4.104	0	Quoduultdeus	DET	adverb	Case=Nom|Gender=Neut|Number=Sing	Quoduultdeus	nsubj	1
+4.104	1	Subbulensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Subbulensis	ROOT	1
+4.104	2	prbt	NOUN	noun		prbtula	obl	1
+4.104	3	.	PUNCT	punc		.	punct	2
+4.105	0	Dauid	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Dauid	ROOT	0
+4.105	1	Tadamatensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tadamatensis	flat:name	0
+4.105	2	.	PUNCT	punc		.	punct	0
+4.106	0	Candidianus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Candidianus	ROOT	0
+4.106	1	Catrensis	VERB	verb	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	Catrensis	acl	0
+4.106	2	prbt	NOUN	noun		prbt	obl	1
+4.106	3	.	PUNCT	punc		.	punct	0
+4.107	0	Reparatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.107	1	Cissitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Cissitanus	nsubj:pass	0
+4.107	2	.	PUNCT	punc		.	punct	0
+4.108	0	Poequarius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Poequarius	ROOT	0
+4.108	1	Tasaccurensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tasaccurensis	amod	0
+4.108	2	prbt	NOUN	noun		prbtis	dep	0
+4.108	3	.	PUNCT	punc		.	punct	2
+4.109	0	Quintus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Quintus	ROOT	0
+4.109	1	Tabuniensis	PROPN	proper_noun	Case=Gen|Gender=Fem|Number=Sing	Tabuniensis	nmod	0
+4.109	2	prbt	NOUN	noun		prbt	appos	0
+4.109	3	.	PUNCT	punc		.	punct	0
+4.110	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	ROOT	0
+4.110	1	Tuscamiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tuscamiensis	amod	0
+4.110	2	.	PUNCT	punc		.	punct	0
+4.111	0	Auxilius	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	auxilius	ROOT	0
+4.111	1	Gunugitanus	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	Gunugitanus	amod	0
+4.111	2	prbt	NOUN	noun		prbt	appos	0
+4.111	3	.	PUNCT	punc		.	punct	2
+4.112	0	Reparatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	reparo	ROOT	0
+4.112	1	Sitensis	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	Sitensis	obl	0
+4.112	2	.	PUNCT	punc		.	punct	0
+4.113	0	Saturninus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Saturninus	ROOT	0
+4.113	1	Uissalsensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uissalsensis	amod	0
+4.113	2	prbt	NOUN	noun		prbt	appos	0
+4.113	3	.	PUNCT	punc		.	punct	2
+4.114	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+4.114	1	Maxitensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maxitensis	nmod	0
+4.114	2	prbt	NOUN	noun		prbt	advmod	0
+4.114	3	.	PUNCT	punc		.	punct	0
+4.115	0	Gaius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Gaius	ROOT	0
+4.115	1	Adsinnadensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Adsinnadensis	amod	0
+4.115	2	prbt	NOUN	noun		prbt	appos	0
+4.115	3	.	PUNCT	punc		.	punct	0
+4.116	0	Crescens	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Crescens	ROOT	0
+4.116	1	Satafensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Satafensis	amod	0
+4.116	2	prbt	NOUN	noun		prbt	obl	0
+4.116	3	.	PUNCT	punc		.	punct	2
+4.117	0	Saturninus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Saturninus	ROOT	0
+4.117	1	Sertensis	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Sertensis	acl	0
+4.117	2	prbt	NOUN	noun		prbt	advcl	0
+4.117	3	.	PUNCT	punc		.	punct	0
+4.118	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+4.118	1	Numidensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Numidensis	nmod	0
+4.118	2	prbt	NOUN	noun		prbt	appos	0
+4.118	3	.	PUNCT	punc		.	punct	0
+4.119	0	Cerealis	ADJ	noun	Case=Acc|Gender=Neut|Number=Sing	Cerealis	nmod	1
+4.119	1	Castello	NOUN	proper_noun	Case=Nom|Gender=Neut|Number=Sing	Castellum	ROOT	1
+4.119	2	-	PUNCT	punc		-	punct	3
+4.119	3	Bipensis.-	PUNCT	noun		Bipensis.-	conj	1
+4.120	0	Lucius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lucius	ROOT	0
+4.120	1	Tamazucensis	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Tamazucensi	flat:name	0
+4.120	2	.	PUNCT	punc		.	punct	0
+4.121	0	\'Sunt	PUNCT	punc		\'Sunt	punct	2
+4.121	1	N.	PUNCT	punc		N.	punct	0
+4.121	2	cxx	ADJ	number		cxx	ROOT	2
+4.121	3	.	PUNCT	punc		.	punct	2
+4.122	0	 	ADV	verb		 	ROOT	0
+4.122	1	et	CCONJ	conjunction		et	cc	2
+4.122	2	cathedrae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	cathedra	conj	0
+4.122	3	quae	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	qui	obj	6
+4.122	4	episcopos	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	episcopus	nsubj	6
+4.122	5	non	PART	particle		non	advmod:neg	6
+4.122	6	habuerunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	habeo	acl:relcl	2
+4.122	7	.	PUNCT	punc		.	punct	0
+4.123	0	Maiucensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Maiucensis	ROOT	0
+4.123	1	.	PUNCT	punc		.	punct	0
+4.123	2	Maiucensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Maiucensis	ROOT	2
+4.123	3	.	PUNCT	punc		.	punct	2
+4.124	0	Nabalensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Nabalensis	ROOT	0
+4.124	1	.	PUNCT	punc		.	punct	0
+4.124	2	Tingariensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tingariensis	ROOT	2
+4.124	3	.	PUNCT	punc		.	punct	2
+4.125	0	Tubunensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Tubunensis	ROOT	0
+4.125	1	.	PUNCT	punc		.	punct	0
+4.125	2	Oboritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Oboritanus	ROOT	2
+4.125	3	.	PUNCT	punc		.	punct	2
+4.126	0	N.	ADJ	proper_noun		N.	ROOT	0
+4.126	1	m.	PROPN	proper_noun		m.	flat:name	0
+5.1	0	Rufinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Rufinus	ROOT	0
+5.1	1	Tamallumensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Tamallumensis	amod	0
+5.1	2	.	PUNCT	punc		.	punct	0
+5.2	0	Donatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Donatus	ROOT	0
+5.2	1	Sitifensis	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Sitifensis	dep	0
+5.2	2	.	PUNCT	punc		.	punct	0
+5.3	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	ROOT	0
+5.3	1	Cobiensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cobiensis	amod	0
+5.3	2	.	PUNCT	punc		.	punct	0
+5.4	0	Domitianus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Domitianus	ROOT	0
+5.4	1	Igilgitanus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Igilgitanus	appos	0
+5.4	2	.	PUNCT	punc		.	punct	0
+5.5	0	Honorius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Honorius	ROOT	0
+5.5	1	Aquae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	Aqua	nmod	0
+5.5	2	-	PUNCT	punc		-	punct	3
+5.5	3	Albensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	albensis	amod	1
+5.5	4	.	PUNCT	punc		.	punct	0
+5.6	0	Festus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Festus	ROOT	0
+5.6	1	Satafensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Satafensis	amod	0
+5.6	2	.	PUNCT	punc		.	punct	0
+5.7	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+5.7	1	Horrensis	ADJ	verb	Case=Gen|Gender=Neut|Number=Sing	Horrensis	nmod	0
+5.7	2	.	PUNCT	punc		.	punct	0
+5.8	0	Maximus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maximus	nmod	1
+5.8	1	Thubusubditanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Thubusubditanus	ROOT	1
+5.8	2	.	PUNCT	punc		.	punct	1
+5.9	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+5.9	1	Ierafitanus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	Ierafitanus	amod	0
+5.9	2	.	PUNCT	punc		.	punct	0
+5.10	0	Uadius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Uadius	ROOT	0
+5.10	1	Lesbitanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Lesbitanus	appos	0
+5.10	2	.	PUNCT	punc		.	punct	0
+5.11	0	Pacatus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Pacatus	ROOT	0
+5.11	1	Equizotensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Equizotensis	nmod	0
+5.11	2	.	PUNCT	punc		.	punct	0
+5.12	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	amod	1
+5.12	1	Castellanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	castellanus	ROOT	1
+5.12	2	prbt	NOUN	noun		prbt	nmod	1
+5.12	3	.	PUNCT	punc		.	punct	2
+5.13	0	Constantius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	constanter	ROOT	0
+5.13	1	Gegitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Gegitanus	appos	0
+5.13	2	.	PUNCT	punc		.	punct	0
+5.14	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+5.14	1	Eminentianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Eminentianensis	nmod	0
+5.14	2	.	PUNCT	punc		.	punct	0
+5.15	0	Saturnius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Saturnius	ROOT	0
+5.15	1	Sociensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sociensis	amod	0
+5.15	2	prbt	NOUN	noun		prbt	appos	0
+5.15	3	.	PUNCT	punc		.	punct	0
+5.16	0	Iacobus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Iacobus	ROOT	0
+5.16	1	Lemellefensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Lemellefensis	amod	0
+5.16	2	.	PUNCT	punc		.	punct	0
+5.17	0	Cresciturus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Cresciturus	ROOT	0
+5.17	1	Cellensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Cellensis	amod	0
+5.17	2	prbt	NOUN	noun		prbtis	obl	0
+5.17	3	.	PUNCT	punc		.	punct	2
+5.18	0	Emeritus	ADV	adjective		emereo	amod	2
+5.18	1	Macrensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Macrensis	nmod	0
+5.18	2	prbt	NOUN	noun		prbt	ROOT	2
+5.18	3	.	PUNCT	punc		.	punct	2
+5.19	0	Redux	NOUN	verb		redux	ROOT	0
+5.19	1	Noua	ADJ	adjective		nouus	dep	0
+5.19	2	-	PUNCT	punc		-	punct	3
+5.19	3	Licianensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Licianensis	conj	1
+5.19	4	.	PUNCT	punc		.	punct	0
+5.20	0	Argentius	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	argentius	ROOT	0
+5.20	1	Zallatensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Zallatensis	amod	0
+5.20	2	.	PUNCT	punc		.	punct	0
+5.21	0	Uindemius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Uindemius	ROOT	0
+5.21	1	Lemfoctensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Lemfoctensis	amod	0
+5.21	2	.	PUNCT	punc		.	punct	0
+5.22	0	Auus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	auus	ROOT	0
+5.22	1	Ficensis	ADJ	verb	Case=Gen|Gender=Fem|Number=Sing	Ficensis	amod	0
+5.22	2	.	PUNCT	punc		.	punct	0
+5.23	0	Restitutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	restituo	ROOT	0
+5.23	1	Macrianensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Macrianensis	nmod	2
+5.23	2	prbt	NOUN	noun		prbt	obl	0
+5.23	3	.	PUNCT	punc		.	punct	0
+5.24	0	Uit	ADV	verb		uit	ROOT	0
+5.24	1	-	PUNCT	punc		-	punct	2
+5.24	2	alis	PROPN	adjective	Case=Abl|Gender=Fem|Number=Plur	alis	appos	0
+5.24	3	Assafensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Assafensis	amod	2
+5.24	4	.	PUNCT	punc		.	punct	0
+5.25	0	Uictor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uictor	ROOT	0
+5.25	1	Flumen	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	flumen	nmod	0
+5.25	2	-	PUNCT	punc		-	punct	1
+5.25	3	Piscensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Piscensis	flat	1
+5.25	4	.	PUNCT	punc		.	punct	0
+5.26	0	Inuentinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Inuentinus	ROOT	0
+5.26	1	Maronanensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Maronanensis	amod	0
+5.26	2	.	PUNCT	punc		.	punct	0
+5.27	0	Romanus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Romanus	amod	1
+5.27	1	Molicunzensis	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	Molicunzensis	ROOT	1
+5.27	2	.	PUNCT	punc		.	punct	1
+5.28	0	Uictorinus	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+5.28	1	Serteitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Serteitanus	conj	0
+5.28	2	prbt	NOUN	noun		prbt	obl	0
+5.28	3	.	PUNCT	punc		.	punct	2
+5.29	0	Montanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	montanus	ROOT	0
+5.29	1	Cedamusensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cedamusensis	amod	0
+5.29	2	.	PUNCT	punc		.	punct	0
+5.30	0	Clemens	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Clemens	ROOT	0
+5.30	1	Thamagristensis	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Thamagristensis	flat:name	0
+5.30	2	.	PUNCT	punc		.	punct	0
+5.31	0	Adeodatus	VERB	noun	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	adeodatus	ROOT	0
+5.31	1	Priuatensis.-	PUNCT	adjective		Priuatensis.-	punct	0
+5.32	0	Rogatus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Rogo	ROOT	0
+5.32	1	Parteniensis	ADJ	verb	Case=Abl|Gender=Neut|Number=Plur	Parteniensis	obl:arg	0
+5.32	2	.	PUNCT	punc		.	punct	0
+5.33	0	Uillaticus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	uillaticus	ROOT	0
+5.33	1	Mozotensis.\	PUNCT	adjective		Mozotensis.\	nmod	0
+5.33	2	'	PUNCT	punc		'	punct	0
+5.34	0	Honoratus	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Honoratus	ROOT	0
+5.34	1	Tamascaniensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Tamascaniensis	nmod	0
+5.34	2	prbt	NOUN	noun		prbt	appos	0
+5.34	3	.	PUNCT	punc		.	punct	0
+5.35	0	Iustus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Iustus	ROOT	0
+5.35	1	Acufidensis	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Acufidensis	acl	0
+5.35	2	prbt	NOUN	noun		prbt	appos	0
+5.35	3	.	PUNCT	punc		.	punct	2
+5.36	0	Emilius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Emilius	ROOT	0
+5.36	1	Asuoremixtensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Asuoremixtensis	amod	0
+5.36	2	.	PUNCT	punc		.	punct	0
+5.37	0	Uzulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Uzulus	ROOT	0
+5.37	1	Thuccensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Thuccensis	amod	0
+5.37	2	.	PUNCT	punc		.	punct	0
+5.38	0	Aufidius	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Aufidius	ROOT	0
+5.38	1	Suristensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Suristensis	amod	0
+5.38	2	.	PUNCT	punc		.	punct	0
+5.39	0	Uictorinus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Uictorinus	ROOT	0
+5.39	1	Perdicensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Perdicensis	nmod	0
+5.39	2	.	PUNCT	punc		.	punct	0
+5.39	3	,	PUNCT	punc		,	punct	0
+5.40	0	Possessor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	possessor	ROOT	0
+5.40	1	Zabensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Zabensis	nmod	0
+5.40	2	.	PUNCT	punc		.	punct	0
+5.41	0	Pascasius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	pascasius	ROOT	0
+5.41	1	Salditanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Salditanus	appos	0
+5.41	2	.	PUNCT	punc		.	punct	0
+5.42	0	Flauianus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Flauianus	ROOT	0
+5.42	1	Uamallensis	VERB	adjective	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	Uamallensis	amod	0
+5.42	2	.	PUNCT	punc		.	punct	0
+5.42	3	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	4
+5.42	4	n.	PUNCT	punc		n.	ROOT	4
+5.42	5	XLIIII	NUM	number		XLIIII	nummod	4
+5.42	6	.	PUNCT	punc		.	punct	4
+6.1	0	Callippides	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	Callippidis	ROOT	0
+6.1	1	Lepti	ADJ	noun	Case=Gen|Gender=Masc|Number=Sing	Leptis	dep	0
+6.1	2	-	PUNCT	punc		-	punct	3
+6.1	3	Magnensis	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	Magnensis	amod	1
+6.1	4	.	PUNCT	punc		.	punct	0
+6.2	0	Leo	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Leo	ROOT	0
+6.2	1	Sabratensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Sabratensis	amod	0
+6.2	2	.	PUNCT	punc		.	punct	0
+6.3	0	Faustinus	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Faustinus	ROOT	0
+6.3	1	Girbitanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Girbitanus	amod	0
+6.3	2	.	PUNCT	punc		.	punct	0
+6.4	0	Cresconius	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Cresconius	ROOT	0
+6.4	1	Oeensis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	Oeensis	amod	0
+6.4	2	.	PUNCT	punc		.	punct	0
+6.5	0	Seruilius	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	seruilius	ROOT	0
+6.5	1	Tacapitanus	PROPN	noun	Case=Nom|Gender=Masc|Number=Sing	Tacapitanus	appos	0
+6.5	2	.	PUNCT	punc		.	punct	0
+6.5	3	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	5
+6.5	4	n.	PUNCT	proper_noun		n.	punct	3
+6.5	5	v.	PROPN	number		v.	ROOT	5
+7.1	0	Lucifer	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Lucifer	ROOT	0
+7.1	1	Calaritanus	ADJ	noun	Case=Nom|Gender=Masc|Number=Sing	Calaritanus	appos	0
+7.1	2	.	PUNCT	punc		.	punct	0
+7.2	0	Martinianus	ADJ	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Martinianus	ROOT	0
+7.2	1	de	ADP	preposition		de	case	2
+7.2	2	Foro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	Forum	orphan	0
+7.2	3	Traiani	PROPN	proper_noun	Case=Gen|Gender=Masc|Number=Sing	Traianus	nmod	2
+7.2	4	.	PUNCT	punc		.	punct	0
+7.3	0	Bonifatius	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Bonifatius	ROOT	0
+7.3	1	de	ADP	preposition		de	case	2
+7.3	2	Sanafer	PROPN	proper_noun		Sanafer	nmod	0
+7.3	3	.	PUNCT	punc		.	punct	0
+7.4	0	Macarius	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Macarius	ROOT	0
+7.4	1	de	ADP	preposition		de	case	2
+7.4	2	Minorica	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	Minorica	nmod	0
+7.4	3	.	PUNCT	punc		.	punct	0
+7.5	0	Uitalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	uitalis	ROOT	0
+7.5	1	Sulcitanus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	Sulcitanus	nsubj	0
+7.5	2	.	PUNCT	punc		.	punct	0
+7.6	0	Felix	PROPN	adjective	Case=Nom|Gender=Masc|Number=Sing	Felix	ROOT	0
+7.6	1	de	ADP	preposition		de	case	2
+7.6	2	Turribus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	turris	nmod	0
+7.6	3	.	PUNCT	punc		.	punct	0
+7.7	0	Helias	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Helias	ROOT	0
+7.7	1	de	ADP	preposition		de	case	2
+7.7	2	Maiorica	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Maiorica	nmod	0
+7.7	3	.	PUNCT	punc		.	punct	0
+7.8	0	Opilio	PROPN	proper_noun	Case=Abl|Gender=Masc|Number=Sing	opilio	ROOT	0
+7.8	1	de	ADP	preposition		de	case	2
+7.8	2	Ebuso	PROPN	noun	Case=Abl|Gender=Neut|Number=Sing	Ebuso	obl	0
+7.8	3	.	PUNCT	punc		.	punct	0
+7.8	4	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	5
+7.8	5	n.	PUNCT	punc		n.	ROOT	5
+7.8	6	VIII	NUM	number		VIII	nummod	5
+7.8	7	.	PUNCT	punc		.	punct	6
+8.1	0	Ac	CCONJ	conjunction		Atque	cc	2
+8.1	1	sic	ADV	adverb		sic	advmod	2
+8.1	2	fiunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	fio	ROOT	2
+8.1	3	omnes	DET	pronoun	Case=Nom|Gender=Masc|Number=Plur	omnis	det	4
+8.1	4	episcopi	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	episcopus	nsubj:pass	2
+8.1	5	diuersarum	ADJ	adjective	Case=Gen|Gender=Fem|Number=Plur	diuersus	amod	6
+8.1	6	prouinciarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	prouincia	nmod	4
+8.1	7	numero	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	numerus	flat	6
+8.2	0	CCCCLXVI	ADJ	adverb		CCCCLXVI	ROOT	0
+8.3	0	Ex	ADP	preposition		Ex	case	1
+8.3	1	quibus	PRON	pronoun	Case=Abl|Gender=Neut|Number=Plur	qui	obl	2
+8.3	2	perierunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	pereo	ROOT	2
+8.3	3	n.	PUNCT	number		n.	punct	2
+8.3	4	LXXXVIII	NUM	number		LXXXVIII	nummod	2
+8.3	5	.	PUNCT	punc		.	punct	2
+8.3	6	id	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|Person=3	is	ROOT	6
+8.3	7	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	6
+8.4	0	de	ADP	preposition		de	case	1
+8.4	1	proconsular	ADJ	noun	Case=Abl|Gender=Masc|Number=Sing	proconsular	ROOT	1
+8.4	2	.	PUNCT	punc		.	punct	1
+8.4	3	numr	ADV	noun		numr	advmod	4
+8.4	4	m.	PROPN	proper_noun		m.	ROOT	4
+8.5	0	de	ADP	preposition		de	case	1
+8.5	1	prouinc	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	prouinc	obl	2
+8.5	2	̃	ADV	verb		̃	ROOT	2
+8.5	3	Numidiae	PROPN	proper_noun	Case=Gen|Gender=Fem|Number=Sing	Numidia	nmod	4
+8.5	4	numr	NOUN	noun		numritas	advmod	2
+8.5	5	XXXIII	NUM	number		XXXIII	nummod	4
+8.5	6	.	PUNCT	punc		.	punct	2
+8.6	0	de	ADP	preposition		de	case	1
+8.6	1	prouinc	NOUN	noun		prouinc	ROOT	1
+8.6	2	.	PUNCT	punc		.	punct	1
+8.6	3	Maurit	VERB	proper_noun	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	Mauritus	ROOT	3
+8.6	4	.	PUNCT	punc		.	punct	3
+8.6	5	Caesar	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Caesar	nsubj	6
+8.6	6	numr	ADV	noun		numris	ROOT	6
+8.6	7	XXXII	NUM	number		XXXII	nummod	6
+8.6	8	.	PUNCT	punc		.	punct	6
+8.7	0	permanserunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	permaneo	ROOT	0
+8.7	1	numr	ADV	adverb		numr	advmod	0
+8.7	2	CCCLXXVIII	NUM	number		CCCLXXVIII	obl	0
+8.7	3	.	PUNCT	punc		.	punct	0
+8.8	0	Corsica	PROPN	proper_noun	Case=Abl|Gender=Fem|Number=Sing	Corsica	obl	1
+8.8	1	relegati	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	relego	ROOT	1
+8.8	2	numr	NOUN	noun		numr	obl:tmod	1
+8.8	3	XLVI	NUM	number		XLVI	nummod	2
+8.8	4	.	PUNCT	punc		.	punct	1
+8.9	0	Hic	ADV	adverb		hic	advmod:lmod	1
+8.9	1	relegati	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	relego	ROOT	1
+8.9	2	numr	ADV	adverb		numr	advmod	3
+8.9	3	CCCII	ADJ	number		CCCII	obj	1
+8.9	4	.	PUNCT	punc		.	punct	1
+8.10	0	Fugerunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	fugio	ROOT	0
+8.10	1	numr	ADV	noun		numr	advmod	0
+8.10	2	XXVIII	NUM	number		XXVIII	nummod	1
+8.10	3	.	PUNCT	punc		.	punct	0
+8.11	0	Passus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	Patior	ROOT	0
+8.11	1	numr	ADV	adverb		numr	advmod	2
+8.11	2	i.	NUM	number		i.	punct	0
+8.12	0	Confessor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	confessor	ROOT	0
+8.12	1	num	PART	noun		num	discourse	0
+8.12	2	?	PUNCT	punc		?	punct	1
+8.12	3	i.	NUM	number		i.	ROOT	3
